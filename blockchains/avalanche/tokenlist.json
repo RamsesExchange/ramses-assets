@@ -435,6 +435,12 @@
         "decimals": 18,
         "name": "GoGoPool Protocol",
         "symbol": "GGP"
+      },
+      {
+        "address": "0x551DF1B6d7fD7Bf1DBC4f693f894e4890C6e21C3",
+        "decimals": 18,
+        "name": "Kidney",
+        "symbol": "KIDNEY"
       }
     ]
   ],
