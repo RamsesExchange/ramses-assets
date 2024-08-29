@@ -471,6 +471,12 @@
         "decimals": 18,
         "name": "Kidney",
         "symbol": "KIDNEY"
+      },
+      {
+        "address": "0x8F56421dc48DcCe052D9aFc80b696291DDaA832A",
+        "decimals": 18,
+        "name": "Aaaand it's gone!",
+        "symbol": "GONE"
       }
     ]
   ],
