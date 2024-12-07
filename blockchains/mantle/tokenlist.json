@@ -231,8 +231,13 @@
         "decimals": 6,
         "name": "AUSD",
         "symbol": "AUSD"
+      },
+      {
+        "address": "0x050A0789b3b5Ff6fE33E4A6727da9f4546E94804",
+        "name": "MEF",
+        "symbol": "MEF",
+        "decimals": 18
       }
-    
     ]
   ],
   "version": {
