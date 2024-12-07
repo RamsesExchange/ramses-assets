@@ -308,10 +308,10 @@
         "address": "0x46bf60bd1d8e61fe8975b4122224f8ed81c1164f",
         "decimals": 18,
         "name": "Alpha Card Pack - LordsForsaken.com",
-        "symbol": "LORDα"
+        "symbol": "LORD\u03b1"
       },
       {
-        "address":"0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
+        "address": "0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
         "decimals": 18,
         "name": "Genesis",
         "symbol": "GENESIS"
@@ -345,8 +345,14 @@
         "decimals": 18,
         "name": "Beaver Coin",
         "symbol": "BEAVER"
+      },
+      {
+        "address": "0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
+        "name": "Donald Toad Coin",
+        "symbol": "DTC",
+        "decimals": 18
       }
-    ] 
+    ]
   ],
   "version": {
     "major": 1,
