@@ -370,7 +370,6 @@
         "symbol": "OMNI",
         "decimals": 18
       },
-
       {
         "name": "GNS",
         "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
@@ -599,7 +598,6 @@
         "name": "Axelar Wrapped USDC",
         "symbol": "axlUSDC"
       },
-
       {
         "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
         "decimals": 18,
@@ -787,14 +785,12 @@
         "symbol": "EIGEN"
       },
       {
-
         "address": "0xEBde02166CF5e9CE2DBf27895AFF3FFD0055b873",
         "decimals": 18,
         "name": "Tbh Creature Yippee",
         "symbol": "TBH"
       },
       {
-
         "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
         "decimals": 8,
         "name": "Coinbase Wrapped BTC",
@@ -817,6 +813,12 @@
         "decimals": 18,
         "name": "ARYZE eGold",
         "symbol": "eGold"
+      },
+      {
+        "address": "0x11920f139a3121c2836E01551D43F95B3c31159c",
+        "name": "YieldBricks",
+        "symbol": "YBR",
+        "decimals": 18
       }
     ]
   ],
