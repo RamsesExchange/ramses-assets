@@ -585,6 +585,12 @@
         "decimals": 18,
         "name": "BRUNO Bull Token",
         "symbol": "BRUNO"
+      },
+      {
+        "address": "0xE12d0d9C33f302c543Cb62aD01E5CfC4d4cF7475",
+        "name": "TREErection",
+        "symbol": "TREERECT",
+        "decimals": 18
       }
     ]
   ],
