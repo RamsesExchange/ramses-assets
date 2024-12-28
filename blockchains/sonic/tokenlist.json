@@ -79,12 +79,6 @@
         "name": "Derp Token",
         "symbol": "DERP",
         "decimals": 18
-      },
-      {
-        "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
-        "name": "Sonic ETH",
-        "symbol": "scETH",
-        "decimals": 18
       }
     ]
   ]
