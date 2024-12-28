@@ -49,6 +49,12 @@
         "name": "Ruggie's Pizza",
         "symbol": "RUGGIE",
         "decimals": 18
+      },
+      {
+        "address": "0x56192E94434c4fd3278b4Fa53039293fB00DE3DB",
+        "name": "ThankYouSonicGod",
+        "symbol": "TYSG",
+        "decimals": 18
       }
     ]
   ]
