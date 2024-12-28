@@ -57,12 +57,6 @@
         "decimals": 18
       },
       {
-        "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
-        "name": "HeyAnon",
-        "symbol": "Anon",
-        "decimals": 18
-      },
-      {
         "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
         "name": "Tin Hat Cat",
         "symbol": "THC",
