@@ -85,6 +85,12 @@
         "name": "Sonic ETH",
         "symbol": "scETH",
         "decimals": 18
+      },
+      {
+        "address": "0x95C217F61c38561b413Be0F7a7bf85618a709D32",
+        "name": "Frog Nation",
+        "symbol": "FN",
+        "decimals": 18
       }
     ]
   ]
