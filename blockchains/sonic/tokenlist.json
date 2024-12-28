@@ -55,6 +55,12 @@
         "name": "Indi",
         "symbol": "INDI",
         "decimals": 18
+      },
+      {
+        "address": "0x3AB6449127Ffb192F711e7D23A7c2f4a5cAd9Dc0",
+        "name": "Silver the Hedgehog",
+        "symbol": "SILVER",
+        "decimals": 18
       }
     ]
   ]
