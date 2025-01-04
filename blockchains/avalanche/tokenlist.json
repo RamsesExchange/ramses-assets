@@ -615,6 +615,12 @@
         "decimals": 18,
         "name": "STICK",
         "symbol": "STICK"
+      },
+      {
+        "address": "0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C",
+        "name": "COQ AI",
+        "symbol": "COQAI",
+        "decimals": 18
       }
     ]
   ],
