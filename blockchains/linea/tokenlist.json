@@ -308,7 +308,7 @@
         "address": "0x46bf60bd1d8e61fe8975b4122224f8ed81c1164f",
         "decimals": 18,
         "name": "Alpha Card Pack - LordsForsaken.com",
-        "symbol": "LORDα"
+        "symbol": "LORD\u03b1"
       },
       {
         "address": "0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
@@ -321,12 +321,6 @@
         "decimals": 18,
         "name": "Linpuss",
         "symbol": "LPUSS"
-      },
-      {
-        "address": "0xEBde02166CF5e9CE2DBf27895AFF3FFD0055b873",
-        "decimals": 18,
-        "name": "Tbh Creature Yippee",
-        "symbol": "TBH"
       },
       {
         "address": "0x092b9E25a7D143c83D44c27194F5CeE7c1150F22",
