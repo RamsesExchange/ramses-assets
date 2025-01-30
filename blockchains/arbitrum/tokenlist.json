@@ -819,6 +819,12 @@
         "name": "Bold Stablecoin",
         "symbol": "Bold",
         "decimals": 18
+      },
+      {
+        "address": "0xAC9eF66dC75E5340304d5cc48E185FF5262Ae3Ac",
+        "name": "Fuego",
+        "symbol": "FUEGO",
+        "decimals": 18
       }
     ]
   ],
