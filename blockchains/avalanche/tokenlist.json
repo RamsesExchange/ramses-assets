@@ -5,6 +5,12 @@
   "tokens": [
     [
       {
+        "name": "Backed CSPX S&P 500",
+        "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+        "symbol": "bCSPX",
+        "decimals": 18
+      },
+      {
         "name": "Bridged USDT",
         "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
         "symbol": "USDT.e",
