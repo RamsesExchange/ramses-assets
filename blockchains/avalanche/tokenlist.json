@@ -759,6 +759,12 @@
         "name": "Bensi Box Token",
         "symbol": "BENSI",
         "decimals": 18
+      },
+      {
+        "address": "0x68e551E7eF4Bf59bf55B233Bb6beA104b168ee24",
+        "name": "Chad Wentworth",
+        "symbol": "CWAI",
+        "decimals": 18
       }
     ]
   ],
