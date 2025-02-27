@@ -759,6 +759,12 @@
         "name": "Bensi Box Token",
         "symbol": "BENSI",
         "decimals": 18
+      },
+      {
+        "address": "0xAEe6632B0CC36809328dD07dc006342D030895F4",
+        "name": "Earnings Bay Whitelist",
+        "symbol": "EBWL",
+        "decimals": 18
       }
     ]
   ],
