@@ -825,6 +825,12 @@
         "name": "Fuego",
         "symbol": "FUEGO",
         "decimals": 18
+      },
+      {
+        "address": "0xFDfdFD005F127334F7c4eeFEF2252D2BF4B6E79E",
+        "name": "Unicorn Fart Dust",
+        "symbol": "UFD",
+        "decimals": 18
       }
     ]
   ],
