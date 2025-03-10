@@ -777,7 +777,13 @@
         "name": "Woof",
         "symbol": "WOOF",
         "decimals": 18
-      }
+      },
+      {
+        "address": "0x223a368Ad0E7396165FC629976d77596a51F155C",
+        "name": "GURS",
+        "symbol": "GURS",
+        "decimals": 18
+      }      
     ]
   ],
   "version": {
