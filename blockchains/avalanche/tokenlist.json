@@ -783,6 +783,12 @@
         "name": "Woof",
         "symbol": "WOOF",
         "decimals": 18
+      },
+      {
+        "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
+        "name": "Eliteness.Network",
+        "symbol": "ELITE",
+        "decimals": 18
       }
     ]
   ],
