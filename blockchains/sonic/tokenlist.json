@@ -127,6 +127,12 @@
         "name": "Muttski",
         "symbol": "WOOF",
         "decimals": 9
+      },
+      {
+        "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
+        "name": "Eliteness.Network",
+        "symbol": "ELITE",
+        "decimals": 18
       }
     ]
   ]
