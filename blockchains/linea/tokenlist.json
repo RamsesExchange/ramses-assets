@@ -399,6 +399,12 @@
         "name": "Constellation ETH",
         "symbol": "xrETH",
         "decimals": 18
+      },
+      {
+        "address": "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
+        "name": "Alchemix USD",
+        "symbol": "alUSD",
+        "decimals": 18
       }
     ]
   ],
