@@ -269,9 +269,9 @@
         "decimals": 18
       },
       {
-        "address": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
+        "name": "STEAK",
+        "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
         "decimals": 18,
-        "name": "SteakHut Finance",
         "symbol": "STEAK"
       },
       {
@@ -321,6 +321,12 @@
         "address": "0xceCB301c2e2A04dD631428C386DD21db70716F8a",
         "symbol": "METIS",
         "decimals": 18
+      },
+      {
+        "address": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
+        "decimals": 18,
+        "name": "SteakHut Finance",
+        "symbol": "STEAK"
       },
       {
         "name": "Kimbo",
