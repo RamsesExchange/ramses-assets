@@ -17,9 +17,9 @@
         "decimals": 6
       },
       {
-        "name": "USD₮0",
+        "name": "USD\u20ae0",
         "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-        "symbol": "USD₮0",
+        "symbol": "USD\u20ae0",
         "decimals": 6
       },
       {
@@ -824,6 +824,12 @@
         "address": "0xAC9eF66dC75E5340304d5cc48E185FF5262Ae3Ac",
         "name": "Fuego",
         "symbol": "FUEGO",
+        "decimals": 18
+      },
+      {
+        "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
+        "name": "Eliteness.Network",
+        "symbol": "ELITE",
         "decimals": 18
       },
       {
