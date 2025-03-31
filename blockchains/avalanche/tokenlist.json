@@ -269,9 +269,9 @@
         "decimals": 18
       },
       {
-        "name": "STEAK",
-        "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+        "address": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
         "decimals": 18,
+        "name": "SteakHut Finance",
         "symbol": "STEAK"
       },
       {
@@ -321,12 +321,6 @@
         "address": "0xceCB301c2e2A04dD631428C386DD21db70716F8a",
         "symbol": "METIS",
         "decimals": 18
-      },
-      {
-        "address": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
-        "decimals": 18,
-        "name": "SteakHut Finance",
-        "symbol": "STEAK"
       },
       {
         "name": "Kimbo",
@@ -572,7 +566,7 @@
         "address": "0x5F896003952638F1875129eF8991a5a65c2124Aa",
         "decimals": 18,
         "name": "BOOBS",
-        "symbol": "（。 ㅅ 。）"
+        "symbol": "\uff08\u3002 \u3145 \u3002\uff09"
       },
       {
         "address": "0x432d38F83a50EC77C409D086e97448794cf76dCF",
@@ -782,6 +776,48 @@
         "address": "0x35A7341Ae0adb31Cb210524D4D02563c061Feac5",
         "name": "Woof",
         "symbol": "WOOF",
+        "decimals": 18
+      },
+      {
+        "address": "0x22683BbaDD01473969F23709879187705a253763",
+        "name": "Lil Coq",
+        "symbol": "LIL",
+        "decimals": 18
+      },
+      {
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8
+      },
+      {
+        "address": "0xf3C8E0E1Ff9824eE7A8cDfcCa51D4962960D290B",
+        "name": "Bellum",
+        "symbol": "BELL",
+        "decimals": 18
+      },
+      {
+        "address": "0x41CBfD7C8709d1E459CE816703a1Fc882DAa77D3",
+        "name": "Loksmith",
+        "symbol": "LOK",
+        "decimals": 18
+      },
+      {
+        "address": "0x9095118A742434d11dF1de4407E33b1B09636eC0",
+        "name": "Bellboy",
+        "symbol": "\ud83d\udd14",
+        "decimals": 18
+      },
+      {
+        "address": "0x05539F021b66Fd01d1FB1ff8E167CdD09bf7c2D0",
+        "name": "BRZ Token",
+        "symbol": "BRZ",
+        "decimals": 18
+      },
+      {
+        "address": "0xc970D70234895dD6033f984Fd00909623C666e66",
+        "name": "Quasi",
+        "symbol": "QUASI",
         "decimals": 18
       },
       {
