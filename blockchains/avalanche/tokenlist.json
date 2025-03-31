@@ -572,7 +572,7 @@
         "address": "0x5F896003952638F1875129eF8991a5a65c2124Aa",
         "decimals": 18,
         "name": "BOOBS",
-        "symbol": "（。 ㅅ 。）"
+        "symbol": "\uff08\u3002 \u3145 \u3002\uff09"
       },
       {
         "address": "0x432d38F83a50EC77C409D086e97448794cf76dCF",
@@ -796,7 +796,6 @@
         "symbol": "WBTC",
         "decimals": 8
       },
-
       {
         "address": "0xf3C8E0E1Ff9824eE7A8cDfcCa51D4962960D290B",
         "name": "Bellum",
@@ -812,7 +811,7 @@
       {
         "address": "0x9095118A742434d11dF1de4407E33b1B09636eC0",
         "name": "Bellboy",
-        "symbol": "🔔",
+        "symbol": "\ud83d\udd14",
         "decimals": 18
       },
       {
@@ -822,11 +821,17 @@
         "decimals": 18
       },
       {
-		    "address" : "0xc970D70234895dD6033f984Fd00909623C666e66",
-		    "name": "Quasi",
-		    "symbol": "QUASI",
-		    "decimals": 18
-	    }
+        "address": "0xc970D70234895dD6033f984Fd00909623C666e66",
+        "name": "Quasi",
+        "symbol": "QUASI",
+        "decimals": 18
+      },
+      {
+        "address": "0x223a368Ad0E7396165FC629976d77596a51F155C",
+        "name": "GURS",
+        "symbol": "GURS",
+        "decimals": 18
+      }
     ]
   ],
   "version": {
