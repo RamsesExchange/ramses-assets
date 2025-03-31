@@ -405,6 +405,12 @@
         "name": "Alchemix",
         "symbol": "ALCX",
         "decimals": 18
+      },
+      {
+        "address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
+        "name": "Alchemix ETH",
+        "symbol": "alETH",
+        "decimals": 18
       }
     ]
   ],
