@@ -41,6 +41,12 @@
         "decimals": 18
       },
       {
+        "name": "GUN",
+        "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
+        "symbol": "GUN",
+        "decimals": 18
+      },
+      {
         "name": "Bridged USDT",
         "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
         "symbol": "USDT.e",
