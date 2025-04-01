@@ -417,6 +417,12 @@
         "name": "Alchemix USD",
         "symbol": "alUSD",
         "decimals": 18
+      },
+      {
+        "address": "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
+        "name": "Aryze",
+        "symbol": "RYZE",
+        "decimals": 18
       }
     ]
   ],
