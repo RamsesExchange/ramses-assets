@@ -1,6 +1,6 @@
 {
-  "name": "Frax Share",
-  "symbol": "FXS",
+  "name": "Frax Share (ALEXAR)",
+  "symbol": "axlFXS",
   "type": "ERC20",
   "decimals": 18,
   "id": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721"

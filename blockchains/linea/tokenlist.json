@@ -355,6 +355,12 @@
       {
         "address": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721",
         "decimals": 18,
+        "name": "Frax Share (AXELAR)",
+        "symbol": "axlFXS"
+      },
+      {
+        "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5",
+        "decimals": 18,
         "name": "Frax Share",
         "symbol": "FXS"
       },
