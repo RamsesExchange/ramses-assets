@@ -837,6 +837,12 @@
         "name": "GURS",
         "symbol": "GURS",
         "decimals": 18
+      },
+      {
+        "address": "0x3fE4902B275CaF603C46C81F3d921BB8515B5BC0",
+        "name": "Stable Jack",
+        "symbol": "JACK",
+        "decimals": 18
       }
     ]
   ],
