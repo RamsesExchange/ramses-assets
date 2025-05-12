@@ -915,6 +915,12 @@
         "name": "BENIS",
         "symbol": "BENIS",
         "decimals": 18
+      },
+      {
+        "address": "0xAc1FDBC389254cce45e8493348eEAcC66F852609",
+        "name": "Wyoming",
+        "symbol": "WY",
+        "decimals": 18
       }
     ]
   ],
