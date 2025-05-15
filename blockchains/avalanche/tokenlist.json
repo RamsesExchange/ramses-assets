@@ -951,8 +951,14 @@
         "name": "Laifu",
         "symbol": "LAIFU",
         "decimals": 18
+      },
+      {
+        "address": "0x8d7d37b2198469CabeEA47dd1902ec3659cA4Ea1",
+        "name": "Nobs saved Avax",
+        "symbol": "NOBS",
+        "decimals": 18
       }
-    ]
+     ]
   ],
   "version": {
     "major": 1,
