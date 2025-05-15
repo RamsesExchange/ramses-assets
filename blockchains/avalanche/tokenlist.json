@@ -951,6 +951,12 @@
         "name": "Laifu",
         "symbol": "LAIFU",
         "decimals": 18
+      },
+      {
+        "address": "0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59",
+        "name": "NXPC",
+        "symbol": "NXPC",
+        "decimals": 18
       }
     ]
   ],
