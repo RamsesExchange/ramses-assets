@@ -993,6 +993,12 @@
         "name": "Boiler Room",
         "symbol": "BOIL",
         "decimals": 18
+      },
+      {
+        "address": "0xB2bFb52cfc40584AC4e9e2B36a5B8d6554A56e0b",
+        "name": "Upshift Avalanche AVAX",
+        "symbol": "upAVAX",
+        "decimals": 18
       }
     ]
   ],
