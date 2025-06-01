@@ -1035,6 +1035,12 @@
         "name": "The Book of Arena",
         "symbol": "BOA",
         "decimals": 18
+      },
+      {
+        "address": "0x4BDCa1fEFf104b22061bc91451C4bD9312d82AAe",
+        "name": "bearforbois",
+        "symbol": "BOI",
+        "decimals": 18
       }
     ]
   ],
