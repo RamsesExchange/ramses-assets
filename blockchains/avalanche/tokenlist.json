@@ -1125,6 +1125,12 @@
         "name": "red triangle",
         "symbol": "TRIANGLE",
         "decimals": 18
+      },
+      {
+        "address": "0x863B65B12eD2a3a3f6886b241e88e758768eA796",
+        "name": "RETARD SEASON",
+        "symbol": "LOIQ",
+        "decimals": 18
       }
     ]
   ],
