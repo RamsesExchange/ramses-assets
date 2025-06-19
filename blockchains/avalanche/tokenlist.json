@@ -1197,6 +1197,12 @@
         "name": "BEATER",
         "symbol": "BEATR",
         "decimals": 18
+      },
+      {
+        "address": "0x2df47a90EFCF6cc5cCFC17D13739ec157D93B548",
+        "name": "HotWheelz",
+        "symbol": "HOTWHEEL",
+        "decimals": 18
       }
     ]
   ],
