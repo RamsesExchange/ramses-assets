@@ -1197,6 +1197,12 @@
         "name": "BEATER",
         "symbol": "BEATR",
         "decimals": 18
+      },
+      {
+        "address": "0xEc46f1E3267bfe3B1d326a6cBB68fa5878b5C8fb",
+        "name": "Arena Trench Hustlers",
+        "symbol": "ATH",
+        "decimals": 18
       }
     ]
   ],
