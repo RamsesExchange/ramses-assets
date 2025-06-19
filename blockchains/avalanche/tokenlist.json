@@ -1197,6 +1197,12 @@
         "name": "BEATER",
         "symbol": "BEATR",
         "decimals": 18
+      },
+      {
+        "address": "0xB9C188BC558a82a1eE9E75AE0857df443F407632",
+        "name": "GreatestOfAVAXTrenches",
+        "symbol": "GOAT",
+        "decimals": 18
       }
     ]
   ],
