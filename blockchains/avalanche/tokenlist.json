@@ -1197,6 +1197,12 @@
         "name": "BEATER",
         "symbol": "BEATR",
         "decimals": 18
+      },
+      {
+        "address": "0xCA2e0f72653337d05B1ABceBEA5718A4A3E57a0b",
+        "name": "supercycle (real)",
+        "symbol": "SUPER",
+        "decimals": 18
       }
     ]
   ],
