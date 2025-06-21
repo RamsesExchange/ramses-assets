@@ -1202,6 +1202,17 @@
         "address": "0xCA2e0f72653337d05B1ABceBEA5718A4A3E57a0b",
         "name": "supercycle (real)",
         "symbol": "SUPER",
+      },
+      {
+        "address": "0x009E245517Fe420ad1AfCF597f10910699A2C3a5",
+        "name": "LegoLand",
+        "symbol": "LEGO",
+        "decimals": 18
+      },
+      {
+        "address": "0x44CDF31E5a0B383f70286c004c39Fec4D163f568",
+        "name": "Labubu Monsters",
+        "symbol": "LBUBU",
         "decimals": 18
       }
     ]
