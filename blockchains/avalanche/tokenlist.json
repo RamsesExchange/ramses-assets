@@ -1199,6 +1199,11 @@
         "decimals": 18
       },
       {
+        "address": "0xCA2e0f72653337d05B1ABceBEA5718A4A3E57a0b",
+        "name": "supercycle (real)",
+        "symbol": "SUPER",
+      },
+      {
         "address": "0x009E245517Fe420ad1AfCF597f10910699A2C3a5",
         "name": "LegoLand",
         "symbol": "LEGO",
