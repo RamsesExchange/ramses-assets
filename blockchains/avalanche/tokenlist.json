@@ -46,7 +46,6 @@
         "symbol": "SLEEP",
         "decimals": 18
       },
-
       {
         "name": "AESYX",
         "address": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
@@ -1305,6 +1304,12 @@
         "address": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
         "name": "BLACKHOLE",
         "symbol": "BLACK",
+        "decimals": 18
+      },
+      {
+        "address": "0x29Fbb1569364ac8CC48851Bd5E144faa2a78f528",
+        "name": "Fuel",
+        "symbol": "FUEL",
         "decimals": 18
       }
     ]
