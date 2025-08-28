@@ -1317,6 +1317,12 @@
         "name": "Door to Freedom",
         "symbol": "DOOR",
         "decimals": 18
+      },
+      {
+        "address": "0x800BdCE6CaA3fE2bfDB738383321278536e258f8",
+        "name": "Wrapped Thought",
+        "symbol": "WTHT",
+        "decimals": 8
       }
     ]
   ],
