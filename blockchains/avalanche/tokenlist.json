@@ -1353,6 +1353,12 @@
         "name": "Dorito",
         "symbol": "DORITO",
         "decimals": 18
+      },
+      {
+        "address": "0x539e567C942F6914c66EEDEF60DE22bC16A1F661",
+        "name": "The Profit",
+        "symbol": "PROFIT",
+        "decimals": 18
       }
     ]
   ],
