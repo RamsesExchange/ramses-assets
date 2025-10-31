@@ -285,6 +285,12 @@
         "name": "Swap",
         "symbol": "SWAP",
         "decimals": 18
+      },
+      { 
+	"address": "0x4F96b683714377C38123631f2d17cDF18b3F46a7",
+	"name": "SEDA Protocol",
+	"symbol": "SEDA",
+	"decimals": 18
       }
     ]
   ],
