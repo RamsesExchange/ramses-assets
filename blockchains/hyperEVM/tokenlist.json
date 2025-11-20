@@ -321,6 +321,18 @@
         "name": "USDG0",
         "symbol": "USDG0",
         "decimals": 6
+      },
+      {
+        "address": "0x0E01e3aFd147C7f079eA19d0EcA166Ad3A22e79D",
+        "name": "Hyperwave",
+        "symbol": "HWAVE",
+        "decimals": 18
+      },
+      {
+        "address": "0x855CeDD0e13BE116f3EB17FA7B7b682999f55C4f",
+        "name": "Staked Hyperwave",
+        "symbol": "GWAVE",
+        "decimals": 18
       }
     ]
   ],
