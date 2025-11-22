@@ -333,6 +333,12 @@
         "name": "Staked Hyperwave",
         "symbol": "GWAVE",
         "decimals": 18
+      },
+      {
+        "address": "0xAc962FA04BF91B7fd0DC0c5C32414E0Ce3C51E03",
+        "name": "xHYPE",
+        "symbol": "xHYPE",
+        "decimals": 18
       }
     ]
   ],
