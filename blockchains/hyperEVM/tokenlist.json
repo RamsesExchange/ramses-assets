@@ -345,6 +345,12 @@
         "name": "Kinetiq Governance Token",
         "symbol": "KNTQ",
         "decimals": 18
+      },
+      {
+        "address": "0x07c57E32a3C29D5659bda1d3EFC2E7BF004E3035",
+        "name": "Nest",
+        "symbol": "NEST",
+        "decimals": 18
       }
     ]
   ],
