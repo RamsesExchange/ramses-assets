@@ -363,6 +363,12 @@
         "name": "Kinetiq Markets LST",
         "symbol": "kmHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x391121D817dA42ED3434d281aedBbcC416a2aF18",
+        "name": "Harmonix Finance",
+        "symbol": "HAR",
+        "decimals": 18
       }
     ]
   ],
