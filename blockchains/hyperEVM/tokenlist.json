@@ -375,6 +375,12 @@
         "name": "Staked USDe",
         "symbol": "sUSDe",
         "decimals": 18
+      },
+      {
+        "address": "0x696238e0Ca31c94e24ca4CBe7921754E172E4d0F",
+        "name": "Staked KNTQ",
+        "symbol": "sKNTQ",
+        "decimals": 18
       }
     ]
   ],
