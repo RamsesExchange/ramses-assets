@@ -381,6 +381,12 @@
         "name": "Staked KNTQ",
         "symbol": "sKNTQ",
         "decimals": 18
+      },
+      {
+        "address": "0xE44bd27c9F10fa2F89fdb3ab4B4F0E460da29EA8",
+        "name": "Alpha HYPE",
+        "symbol": "\u03b1HYPE",
+        "decimals": 8
       }
     ]
   ],
