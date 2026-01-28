@@ -1,0 +1,39 @@
+{
+  "name": "Ramses: Polygon List",
+  "logoURI": "",
+  "timestamp": "2029-01-27T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "USDC",
+        "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "name": "USDC.e",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "symbol": "USDC.e",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped POL",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "symbol": "WPOL",
+        "decimals": 18
+      },
+     
+      {
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "name": "USDT0",
+        "symbol": "USDT0",
+        "decimals": 6
+      }
+    ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
