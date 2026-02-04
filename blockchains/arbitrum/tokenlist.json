@@ -95,9 +95,9 @@
         "symbol": "wTAO"
       },
       {
-        "name": "RAMSES",
+        "name": "RAMSES (OLD)",
         "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
-        "symbol": "RAM",
+        "symbol": "RAM (OLD)",
         "decimals": 18
       },
       {
