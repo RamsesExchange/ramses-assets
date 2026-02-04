@@ -515,12 +515,6 @@
         "symbol": "GRAI"
       },
       {
-        "address": "0xAAA1eE8DC1864AE49185C368e8c64Dd780a50Fb7",
-        "decimals": 18,
-        "name": "Escrowed RAM",
-        "symbol": "xRAM"
-      },
-      {
         "address": "0x308F66EBEE21861D304C8013Eb3A9a5fC78A8a6c",
         "decimals": 18,
         "name": "SHRAPNEL",
