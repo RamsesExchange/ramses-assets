@@ -275,18 +275,6 @@
         "decimals": 18
       },
       {
-        "name": "Insane Technology Index",
-        "address": "0x5431136817a5c3449F3057f8778bD971d8e48529",
-        "symbol": "ITX",
-        "decimals": 18
-      },
-      {
-        "name": "USDV",
-        "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
-        "symbol": "USDV",
-        "decimals": 6
-      },
-      {
         "name": "Alchemix ETH",
         "address": "0x17573150d67d820542EFb24210371545a4868B03",
         "symbol": "alETH",
@@ -485,18 +473,6 @@
         "symbol": "sfrxETH"
       },
       {
-        "address": "0x40301951Af3f80b8C1744ca77E55111dd3c1dba1",
-        "decimals": 18,
-        "name": "neadRAM: Tokenized veRAM",
-        "symbol": "neadRAM"
-      },
-      {
-        "address": "0x80bB30D62a16e1F2084dEAE84dc293531c3AC3A1",
-        "decimals": 18,
-        "name": "Granary Token",
-        "symbol": "GRAIN"
-      },
-      {
         "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
         "decimals": 18,
         "name": "Coinbase Wrapped Staked ETH",
@@ -533,12 +509,6 @@
         "symbol": "gOHM"
       },
       {
-        "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
-        "decimals": 18,
-        "name": "Ethos Reserve Note",
-        "symbol": "ERN"
-      },
-      {
         "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
         "decimals": 18,
         "name": "Gravita Debt Token",
@@ -573,12 +543,6 @@
         "decimals": 18,
         "name": "Alchemix USD",
         "symbol": "alUSD"
-      },
-      {
-        "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
-        "decimals": 18,
-        "name": "ZoomerCoin",
-        "symbol": "ZOOMER"
       },
       {
         "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
@@ -623,22 +587,10 @@
         "symbol": "POOL"
       },
       {
-        "address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
-        "decimals": 18,
-        "name": "Standard Token",
-        "symbol": "TST"
-      },
-      {
         "address": "0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30",
         "decimals": 18,
         "name": "Thales DAO Token",
         "symbol": "THALES"
-      },
-      {
-        "address": "0xC5e16f5009776aB645d6719B72962892428b2ac2",
-        "decimals": 18,
-        "name": "Gravita: oARB Token",
-        "symbol": "goARB"
       },
       {
         "address": "0x3d15fD46CE9e551498328B1C83071D9509E2C3a0",
@@ -659,18 +611,6 @@
         "symbol": "osETH"
       },
       {
-        "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
-        "decimals": 18,
-        "name": "Mountain Protocol USD",
-        "symbol": "USDM"
-      },
-      {
-        "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
-        "decimals": 18,
-        "name": "Wrapped Mountain Protocol USD",
-        "symbol": "wUSDM"
-      },
-      {
         "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
         "decimals": 18,
         "name": "Graph Token",
@@ -683,28 +623,10 @@
         "symbol": "gUSDC"
       },
       {
-        "address": "0x603cFa7f6eCFE7984BB60Ab0B0f8e7a5Ffbb4EB8",
-        "decimals": 6,
-        "name": "Layzer Zero Insane Technology",
-        "symbol": "lzIT"
-      },
-      {
-        "address": "0xb2F30A7C980f052f02563fb518dcc39e6bf38175",
-        "decimals": 18,
-        "name": "Synthetix USD",
-        "symbol": "USDx"
-      },
-      {
         "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
         "decimals": 18,
         "name": "LayerZero",
         "symbol": "ZRO"
-      },
-      {
-        "address": "0x8553d254Cb6934b16F87D2e486b64BbD24C83C70",
-        "decimals": 18,
-        "name": "FARM Reward Token",
-        "symbol": "FARM"
       },
       {
         "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
@@ -724,36 +646,7 @@
         "name": "ether.fi governance token",
         "symbol": "ETHFI"
       },
-      {
-        "address": "0x221A0f68770658C15B525d0F89F5da2baAB5f321",
-        "decimals": 18,
-        "name": "Open Dollar",
-        "symbol": "OD"
-      },
-      {
-        "address": "0x9EfCFc5b49390FC3fb9B58607D2e89445Bb380BF",
-        "decimals": 18,
-        "name": "abcRAM",
-        "symbol": "abcRAM"
-      },
-      {
-        "address": "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c",
-        "decimals": 18,
-        "name": "Open Dollar Governance",
-        "symbol": "ODG"
-      },
-      {
-        "address": "0x2C650dAb03A59332e2E0C0C4A7F726913e5028C1",
-        "decimals": 18,
-        "name": "TapToken",
-        "symbol": "TAP"
-      },
-      {
-        "address": "0x249c48e22E95514Ca975De31f473F30c2f3C0916",
-        "decimals": 18,
-        "name": "USDFI",
-        "symbol": "USDFI"
-      },
+
       {
         "address": "0x666966Ef3925B1c92fa355FDA9722899f3e73451",
         "decimals": 18,
@@ -797,23 +690,12 @@
         "symbol": "cbBTC"
       },
       {
-        "address": "0x8f5c1A99b1df736Ad685006Cb6ADCA7B7Ae4b514",
-        "decimals": 18,
-        "name": "Melon Token",
-        "symbol": "MLN"
-      },
-      {
         "address": "0x7712da72127d5dD213B621497D6E4899d5989e5C",
         "decimals": 18,
         "name": "Aryze",
         "symbol": "RYZE"
       },
-      {
-        "address": "0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4",
-        "decimals": 18,
-        "name": "ARYZE eGold",
-        "symbol": "eGold"
-      },
+
       {
         "address": "0x087C440F251Ff6Cfe62B86DdE1bE558B95b4bb9b",
         "name": "Bold Stablecoin",
