@@ -387,6 +387,12 @@
         "name": "Alpha HYPE",
         "symbol": "\u03b1HYPE",
         "decimals": 8
+      },
+      {
+        "address": "0xBD6Dab50F03A305a80037294fA8D1A9DC0CaC91B",
+        "name": "HyperLend",
+        "symbol": "HPL",
+        "decimals": 18
       }
     ]
   ],
