@@ -17,6 +17,12 @@
         "decimals": 6
       },
       {
+        "name": "Polymarket USD",
+        "address": "0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB",
+        "symbol": "pUSD",
+        "decimals": 6
+      },
+      {
         "name": "Wrapped POL",
         "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "symbol": "WPOL",
