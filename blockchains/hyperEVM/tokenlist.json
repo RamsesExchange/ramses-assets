@@ -399,6 +399,12 @@
         "name": "WinterStelth",
         "symbol": "WS",
         "decimals": 6
+      },
+      {
+        "address": "0x741bD193B6b40f8703d2e116FD1965421f290F58",
+        "name": "evaUSDC",
+        "symbol": "evaUSDC",
+        "decimals": 6
       }
     ]
   ],
