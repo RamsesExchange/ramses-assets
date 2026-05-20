@@ -405,6 +405,12 @@
         "name": "evaUSDC",
         "symbol": "evaUSDC",
         "decimals": 6
+      },
+      {
+        "address": "0x501eBf66d76A96D4FB26ccead42957653e16B8B8",
+        "name": "evaUSDT",
+        "symbol": "evaUSDT",
+        "decimals": 6
       }
     ]
   ],
