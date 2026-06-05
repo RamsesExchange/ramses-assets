@@ -1379,6 +1379,18 @@
         "decimals": 18
       },
       {
+        "address": "0xC139Aa91399600f6b72975AC3317b6d49Cb30a69",
+        "name": "Avax Meme Index",
+        "symbol": "AMI",
+        "decimals": 18
+      },
+      {
+        "address": "0x1A31A8fD8BACB64b32dBcdcF5b2215f58Baf70c1",
+        "name": "Gator Dont Play ",
+        "symbol": "GATOR",
+        "decimals": 18
+      },
+      {
         "address": "0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32",
         "name": "XAUt0",
         "symbol": "XAUt0",
