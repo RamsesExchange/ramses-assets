@@ -411,6 +411,12 @@
         "name": "evaUSDT",
         "symbol": "evaUSDT",
         "decimals": 6
+      },
+      {
+        "address": "0x3FA145caD2C8108A68cfc803A8e1aE246C36dF3e",
+        "name": "HyperStrategy",
+        "symbol": "HSTR",
+        "decimals": 18
       }
     ]
   ],
