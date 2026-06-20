@@ -423,6 +423,12 @@
         "name": "HypeZion bullHYPE",
         "symbol": "bullHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0xB5EE887259F792E613edBD20dDE8970C10fefda1",
+        "name": "ValiDAO",
+        "symbol": "VDO",
+        "decimals": 18
       }
     ]
   ],
