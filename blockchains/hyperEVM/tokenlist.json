@@ -17,12 +17,6 @@
         "decimals": 18
       },
       {
-        "name": "HLP0",
-        "address": "0x3D75F2BB8aBcDBd1e27443cB5CBCE8A668046C81",
-        "symbol": "HLP0",
-        "decimals": 6
-      },
-      {
         "address": "0x9FDBdA0A5e284c32744D2f17Ee5c74B284993463",
         "name": "Unit Bitcoin",
         "symbol": "UBTC",
