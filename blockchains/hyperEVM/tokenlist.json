@@ -119,12 +119,6 @@
         "decimals": 6
       },
       {
-        "address": "0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77",
-        "name": "Resolv USD",
-        "symbol": "USR",
-        "decimals": 18
-      },
-      {
         "address": "0x8fF0dd9f9C40a0d76eF1BcFAF5f98c1610c74Bd8",
         "name": "Hyperstable",
         "symbol": "USH",
