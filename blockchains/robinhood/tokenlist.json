@@ -51,6 +51,12 @@
         "name": "Arrow",
         "symbol": "ARROW",
         "decimals": 18
+      },
+      {
+        "address": "0x56910D4409F3a0C78C64DD8D0545FF0705389870",
+        "name": "The Index",
+        "symbol": "Index",
+        "decimals": 18
       }
     ]
   ],
