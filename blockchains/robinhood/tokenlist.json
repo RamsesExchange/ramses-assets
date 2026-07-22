@@ -117,6 +117,12 @@
         "name": "Oracle \u2022 Robinhood Token",
         "symbol": "ORCL",
         "decimals": 18
+      },
+      {
+        "address": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
+        "name": "Netflix \u2022 Robinhood Token",
+        "symbol": "NFLX",
+        "decimals": 18
       }
     ]
   ],
