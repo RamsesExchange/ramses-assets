@@ -111,6 +111,12 @@
         "name": "Amazon",
         "symbol": "AMZN",
         "decimals": 18
+      },
+      {
+        "address": "0xb0992820E760d836549ba69BC7598b4af75dEE03",
+        "name": "Oracle \u2022 Robinhood Token",
+        "symbol": "ORCL",
+        "decimals": 18
       }
     ]
   ],
