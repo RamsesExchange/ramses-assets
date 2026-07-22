@@ -99,6 +99,12 @@
         "name": "Space Exploration Technologies Corp. Class A Common Stock \u2022 Robinhood Token",
         "symbol": "SPCX",
         "decimals": 18
+      },
+      {
+        "address": "0x1360CaEb5BA22320Ed763622c92F31eD3a36518a",
+        "name": "OIL",
+        "symbol": "OIL",
+        "decimals": 18
       }
     ]
   ],
