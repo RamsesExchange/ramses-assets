@@ -45,6 +45,12 @@
         "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
         "symbol": "USDe",
         "decimals": 18
+      },
+      {
+        "address": "0xf2915d1e3C1B0c769d0c756Ec43F1c1f6c99cD03",
+        "name": "Arrow",
+        "symbol": "ARROW",
+        "decimals": 18
       }
     ]
   ],
