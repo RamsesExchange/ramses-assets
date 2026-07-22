@@ -1,0 +1,26 @@
+{
+  "name": "Ramses: Robinhood Chain List",
+  "logoURI": "",
+  "timestamp": "2026-07-21T00:00:00.000000",
+  "tokens": [
+    [
+      {
+        "name": "Global Dollar",
+        "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+        "symbol": "USDG",
+        "decimals": 6
+      },
+      {
+        "name": "WETH",
+        "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+        "symbol": "WETH",
+        "decimals": 18
+      }
+    ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
