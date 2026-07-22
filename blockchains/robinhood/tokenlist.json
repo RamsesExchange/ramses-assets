@@ -57,6 +57,12 @@
         "name": "The Index",
         "symbol": "Index",
         "decimals": 18
+      },
+      {
+        "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+        "name": "NVIDIA \u2022 Robinhood Token",
+        "symbol": "NVDA",
+        "decimals": 18
       }
     ]
   ],
