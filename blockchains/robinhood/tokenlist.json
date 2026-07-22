@@ -69,6 +69,12 @@
         "name": "Tesla \u2022 Robinhood Token",
         "symbol": "TSLA",
         "decimals": 18
+      },
+      {
+        "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+        "name": "Palantir Technologies \u2022 Robinhood Token",
+        "symbol": "PLTR",
+        "decimals": 18
       }
     ]
   ],
