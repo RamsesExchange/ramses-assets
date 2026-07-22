@@ -135,6 +135,12 @@
         "name": "Invesco QQQ \u2022 Robinhood Token",
         "symbol": "QQQ",
         "decimals": 18
+      },
+      {
+        "address": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
+        "name": "Micron Technology \u2022 Robinhood Token",
+        "symbol": "MU",
+        "decimals": 18
       }
     ]
   ],
