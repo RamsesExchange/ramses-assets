@@ -81,6 +81,12 @@
         "name": "Alphabet Class A \u2022 Robinhood Token",
         "symbol": "GOOGL",
         "decimals": 18
+      },
+      {
+        "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+        "name": "Apple \u2022 Robinhood Token",
+        "symbol": "AAPL",
+        "decimals": 18
       }
     ]
   ],
