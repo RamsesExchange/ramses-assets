@@ -15,6 +15,36 @@
         "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
         "symbol": "WETH",
         "decimals": 18
+      },
+      {
+        "name": "Cash Cat",
+        "address": "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+        "symbol": "CASHCAT",
+        "decimals": 18
+      },
+      {
+        "name": "Pons",
+        "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571",
+        "symbol": "PONS",
+        "decimals": 18
+      },
+      {
+        "name": "Virtuals Protocol",
+        "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
+        "symbol": "VIRTUAL",
+        "decimals": 18
+      },
+      {
+        "name": "TENDIES",
+        "address": "0x45242320DBB855EeA8Fd36804C6487E10E97FCF9",
+        "symbol": "TENDIES",
+        "decimals": 18
+      },
+      {
+        "name": "USDe",
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "symbol": "USDe",
+        "decimals": 18
       }
     ]
   ],
