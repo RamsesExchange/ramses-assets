@@ -63,6 +63,12 @@
         "name": "NVIDIA \u2022 Robinhood Token",
         "symbol": "NVDA",
         "decimals": 18
+      },
+      {
+        "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+        "name": "Tesla \u2022 Robinhood Token",
+        "symbol": "TSLA",
+        "decimals": 18
       }
     ]
   ],
