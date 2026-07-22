@@ -105,6 +105,12 @@
         "name": "OIL",
         "symbol": "OIL",
         "decimals": 18
+      },
+      {
+        "address": "0xfd529023677385E4Fb874e80F374F09655907867",
+        "name": "Amazon",
+        "symbol": "AMZN",
+        "decimals": 18
       }
     ]
   ],
