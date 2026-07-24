@@ -171,6 +171,12 @@
         "name": "GameStop \u2022 Robinhood Token",
         "symbol": "GME",
         "decimals": 18
+      },
+      {
+        "address": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
+        "name": "Intel \u2022 Robinhood Token",
+        "symbol": "INTC",
+        "decimals": 18
       }
     ]
   ],
