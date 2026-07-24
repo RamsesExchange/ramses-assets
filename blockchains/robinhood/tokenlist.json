@@ -165,6 +165,12 @@
         "name": "USA Rare Earth \u2022 Robinhood Token",
         "symbol": "USAR",
         "decimals": 18
+      },
+      {
+        "address": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+        "name": "GameStop \u2022 Robinhood Token",
+        "symbol": "GME",
+        "decimals": 18
       }
     ]
   ],
