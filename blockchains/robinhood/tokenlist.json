@@ -159,6 +159,12 @@
         "name": "Sherwood Protocol",
         "symbol": "WOOD",
         "decimals": 18
+      },
+      {
+        "address": "0xd917B029C761D264c6A312BBbcDA868658eF86a6",
+        "name": "USA Rare Earth \u2022 Robinhood Token",
+        "symbol": "USAR",
+        "decimals": 18
       }
     ]
   ],
