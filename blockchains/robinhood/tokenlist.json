@@ -153,6 +153,12 @@
         "name": "AMD \u2022 Robinhood Token",
         "symbol": "AMD",
         "decimals": 18
+      },
+      {
+        "address": "0xF8BC08092C06dB6148114DCf82AF881F1085f92b",
+        "name": "Sherwood Protocol",
+        "symbol": "WOOD",
+        "decimals": 18
       }
     ]
   ],
