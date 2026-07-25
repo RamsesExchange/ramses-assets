@@ -183,6 +183,12 @@
         "name": "Coinbase \u2022 Robinhood Token",
         "symbol": "COIN",
         "decimals": 18
+      },
+      {
+        "address": "0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18",
+        "name": "Artificial Inu",
+        "symbol": "AI",
+        "decimals": 18
       }
     ]
   ],
