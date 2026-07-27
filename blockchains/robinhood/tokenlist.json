@@ -201,6 +201,12 @@
         "name": "Sandisk Corporation \u2022 Robinhood Token",
         "symbol": "SNDK",
         "decimals": 18
+      },
+      {
+        "address": "0xC1A0D0ef8c0c353d03f006B8304A4EfB32016d3C",
+        "name": "Pilates",
+        "symbol": "PLTS",
+        "decimals": 18
       }
     ]
   ],
