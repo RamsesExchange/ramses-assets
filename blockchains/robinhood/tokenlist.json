@@ -195,6 +195,12 @@
         "name": "syrupUSDG",
         "symbol": "syrupUSDG",
         "decimals": 6
+      },
+      {
+        "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
+        "name": "Sandisk Corporation \u2022 Robinhood Token",
+        "symbol": "SNDK",
+        "decimals": 18
       }
     ]
   ],
