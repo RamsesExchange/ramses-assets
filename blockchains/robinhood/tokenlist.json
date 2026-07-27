@@ -189,6 +189,12 @@
         "name": "Artificial Inu",
         "symbol": "AI",
         "decimals": 18
+      },
+      {
+        "address": "0x40858070814a57FdF33a613ae84fE0a8b4a874f7",
+        "name": "syrupUSDG",
+        "symbol": "syrupUSDG",
+        "decimals": 6
       }
     ]
   ],
