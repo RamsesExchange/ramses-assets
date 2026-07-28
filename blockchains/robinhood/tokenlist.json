@@ -207,6 +207,12 @@
         "name": "Pilates",
         "symbol": "PLTS",
         "decimals": 18
+      },
+      {
+        "address": "0xc1a0bf772b80Ff771b3837E269813f7b62e047BE",
+        "name": "c1a0",
+        "symbol": "CIAO",
+        "decimals": 18
       }
     ]
   ],
