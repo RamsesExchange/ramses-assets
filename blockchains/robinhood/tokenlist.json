@@ -213,6 +213,12 @@
         "name": "c1a0",
         "symbol": "CIAO",
         "decimals": 18
+      },
+      {
+        "address": "0x92D176ccBeEffeCd8089e841D09ea17b6C22D969",
+        "name": "Vladhood",
+        "symbol": "VLAD",
+        "decimals": 18
       }
     ]
   ],
