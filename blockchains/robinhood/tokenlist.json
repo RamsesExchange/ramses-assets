@@ -219,6 +219,12 @@
         "name": "Vladhood",
         "symbol": "VLAD",
         "decimals": 18
+      },
+      {
+        "address": "0xc2362AfF2A2a4CC1f48cF3Dab2C4e2605eb94BA3",
+        "name": "GameStop",
+        "symbol": "GME",
+        "decimals": 18
       }
     ]
   ],
