@@ -231,6 +231,12 @@
         "name": "pipedog",
         "symbol": "PIPEDOG",
         "decimals": 18
+      },
+      {
+        "address": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
+        "name": "Alibaba \u2022 Robinhood Token",
+        "symbol": "BABA",
+        "decimals": 18
       }
     ]
   ],
