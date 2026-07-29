@@ -225,6 +225,12 @@
         "name": "GameStop",
         "symbol": "GME",
         "decimals": 18
+      },
+      {
+        "address": "0x5Cb6F181081301b44905F3ae15419112ecaBd8A6",
+        "name": "pipedog",
+        "symbol": "PIPEDOG",
+        "decimals": 18
       }
     ]
   ],
