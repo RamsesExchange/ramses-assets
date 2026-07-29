@@ -237,6 +237,12 @@
         "name": "Alibaba \u2022 Robinhood Token",
         "symbol": "BABA",
         "decimals": 18
+      },
+      {
+        "address": "0x75742c18BC1f1C5c5f448f4C9D9C6F66dafAAa38",
+        "name": "iShares Semiconductor ETF \u2022 Robinhood Token",
+        "symbol": "SOXX",
+        "decimals": 18
       }
     ]
   ],
