@@ -243,6 +243,12 @@
         "name": "iShares Semiconductor ETF \u2022 Robinhood Token",
         "symbol": "SOXX",
         "decimals": 18
+      },
+      {
+        "address": "0x6245e67affA44a23077f0Ea7f981a8DC743a0c47",
+        "name": "frong",
+        "symbol": "FRONG",
+        "decimals": 18
       }
     ]
   ],
