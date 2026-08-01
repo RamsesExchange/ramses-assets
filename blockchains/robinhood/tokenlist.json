@@ -249,6 +249,12 @@
         "name": "frong",
         "symbol": "FRONG",
         "decimals": 18
+      },
+      {
+        "address": "0x50832d74a7160E2f7d361F5E678E107D228B9Aa6",
+        "name": "Arena",
+        "symbol": "ARENA",
+        "decimals": 18
       }
     ]
   ],
