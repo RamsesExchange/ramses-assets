@@ -255,6 +255,12 @@
         "name": "Arena",
         "symbol": "ARENA",
         "decimals": 18
+      },
+      {
+        "address": "0x2B1C6953Ca01A5D098d2E22Ab606467b15E5f9f0",
+        "name": "The Liquidity Chef",
+        "symbol": "CHEF",
+        "decimals": 18
       }
     ]
   ],
