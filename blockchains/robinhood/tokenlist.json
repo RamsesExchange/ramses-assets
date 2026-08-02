@@ -267,6 +267,12 @@
         "name": "StonkBroker",
         "symbol": "STONKBROKER",
         "decimals": 18
+      },
+      {
+        "address": "0xf1d3e39cc61Aedd53dc40d8AFFf6aA1dD51875D0",
+        "name": "ROAR",
+        "symbol": "ROAR",
+        "decimals": 18
       }
     ]
   ],
