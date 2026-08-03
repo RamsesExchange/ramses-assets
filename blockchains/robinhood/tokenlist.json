@@ -267,6 +267,12 @@
         "name": "ROAR",
         "symbol": "ROAR",
         "decimals": 18
+      },
+      {
+        "address": "0xC1a0C3929f5e12b5CfD6Ae36f197a45beDf79417",
+        "name": "Sestri",
+        "symbol": "SESTRI",
+        "decimals": 18
       }
     ]
   ],
