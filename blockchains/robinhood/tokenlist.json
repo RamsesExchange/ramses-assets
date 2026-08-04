@@ -285,6 +285,12 @@
         "name": "ASML Holding NV \u2022 Robinhood Token",
         "symbol": "ASML",
         "decimals": 18
+      },
+      {
+        "address": "0x48961813349333209994750ffA89b3c5C22eC969",
+        "name": "MaxLinear \u2022 Robinhood Token",
+        "symbol": "MXL",
+        "decimals": 18
       }
     ]
   ],
