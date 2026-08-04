@@ -309,6 +309,12 @@
         "name": "Eli Lilly \u2022 Robinhood Token",
         "symbol": "LLY",
         "decimals": 18
+      },
+      {
+        "address": "0x8750dA3e48345Ec0C5AAAACfcda2A004Da3B60c2",
+        "name": "Unifrog",
+        "symbol": "UNIFROG",
+        "decimals": 18
       }
     ]
   ],
