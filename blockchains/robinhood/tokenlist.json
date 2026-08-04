@@ -297,6 +297,12 @@
         "name": "Penguin Solutions \u2022 Robinhood Token",
         "symbol": "PENG",
         "decimals": 18
+      },
+      {
+        "address": "0x521Cf887E6531c6F667b5BC4D896E5d9bfE8EB2E",
+        "name": "Applied Optoelectronics \u2022 Robinhood Token",
+        "symbol": "AAOI",
+        "decimals": 18
       }
     ]
   ],
