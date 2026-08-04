@@ -291,6 +291,12 @@
         "name": "MaxLinear \u2022 Robinhood Token",
         "symbol": "MXL",
         "decimals": 18
+      },
+      {
+        "address": "0x9b23573b156B52565012F5cE02CDF60AFBaa70Be",
+        "name": "Penguin Solutions \u2022 Robinhood Token",
+        "symbol": "PENG",
+        "decimals": 18
       }
     ]
   ],
