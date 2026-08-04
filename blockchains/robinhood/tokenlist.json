@@ -273,6 +273,12 @@
         "name": "Sestri",
         "symbol": "SESTRI",
         "decimals": 18
+      },
+      {
+        "address": "0x822CC93fFD030293E9842c30BBD678F530701867",
+        "name": "Bloom Energy \u2022 Robinhood Token",
+        "symbol": "BE",
+        "decimals": 18
       }
     ]
   ],
