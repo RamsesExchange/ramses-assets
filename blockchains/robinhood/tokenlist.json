@@ -303,6 +303,12 @@
         "name": "Applied Optoelectronics \u2022 Robinhood Token",
         "symbol": "AAOI",
         "decimals": 18
+      },
+      {
+        "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
+        "name": "Eli Lilly \u2022 Robinhood Token",
+        "symbol": "LLY",
+        "decimals": 18
       }
     ]
   ],
