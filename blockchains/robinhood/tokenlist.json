@@ -315,6 +315,12 @@
         "name": "Unifrog",
         "symbol": "UNIFROG",
         "decimals": 18
+      },
+      {
+        "address": "0xB358766827d7C704d3c52a57b5Cf181D1b0ffC6c",
+        "name": "ChowdLaunch",
+        "symbol": "CHWDR",
+        "decimals": 18
       }
     ]
   ],
