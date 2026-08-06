@@ -333,6 +333,12 @@
         "name": "What If",
         "symbol": "IF",
         "decimals": 18
+      },
+      {
+        "address": "0x1dF1F09c4Dd65C76746d53467361D536cDfDC719",
+        "name": "FROGE",
+        "symbol": "FROGE",
+        "decimals": 18
       }
     ]
   ],
