@@ -327,6 +327,12 @@
         "name": "inu",
         "symbol": "inu",
         "decimals": 18
+      },
+      {
+        "address": "0x232CDFc415D10b673845D83Dc02ba2eaBe7e30d1",
+        "name": "What If",
+        "symbol": "IF",
+        "decimals": 18
       }
     ]
   ],
