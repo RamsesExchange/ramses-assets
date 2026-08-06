@@ -345,6 +345,12 @@
         "name": "Lady Marian",
         "symbol": "MARIAN",
         "decimals": 18
+      },
+      {
+        "address": "0x658bF542C9384dC000A07540B0B29Ef7E79fe126",
+        "name": "Possum",
+        "symbol": "PosM",
+        "decimals": 18
       }
     ]
   ],
