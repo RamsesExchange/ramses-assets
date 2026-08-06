@@ -357,6 +357,12 @@
         "name": "Hookr.fun",
         "symbol": "HOOKR",
         "decimals": 18
+      },
+      {
+        "address": "0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f",
+        "name": "Thinking Cat",
+        "symbol": "HMM",
+        "decimals": 18
       }
     ]
   ],
