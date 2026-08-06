@@ -363,6 +363,12 @@
         "name": "Thinking Cat",
         "symbol": "HMM",
         "decimals": 18
+      },
+      {
+        "address": "0x77948655831f48aa17AC85233E6c921F7eF7bb2e",
+        "name": "ENDGAME",
+        "symbol": "FEES",
+        "decimals": 18
       }
     ]
   ],
