@@ -339,6 +339,12 @@
         "name": "FROGE",
         "symbol": "FROGE",
         "decimals": 18
+      },
+      {
+        "address": "0x01637b14B7378B99dE75A64d50656d98488D9a4d",
+        "name": "Lady Marian",
+        "symbol": "MARIAN",
+        "decimals": 18
       }
     ]
   ],
