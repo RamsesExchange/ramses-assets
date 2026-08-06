@@ -321,6 +321,12 @@
         "name": "ChowdLaunch",
         "symbol": "CHWDR",
         "decimals": 18
+      },
+      {
+        "address": "0xb9F89a5a075CC280362C5167c5E95723BB2c8caD",
+        "name": "inu",
+        "symbol": "inu",
+        "decimals": 18
       }
     ]
   ],
