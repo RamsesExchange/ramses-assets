@@ -351,6 +351,12 @@
         "name": "Possum",
         "symbol": "PosM",
         "decimals": 18
+      },
+      {
+        "address": "0x18E674231A58c239Dc7DaeDcffE15Ec3A24cff5c",
+        "name": "Hookr.fun",
+        "symbol": "HOOKR",
+        "decimals": 18
       }
     ]
   ],
