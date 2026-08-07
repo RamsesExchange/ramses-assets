@@ -369,6 +369,12 @@
         "name": "ENDGAME",
         "symbol": "FEES",
         "decimals": 18
+      },
+      {
+        "address": "0xc72F232a6869e6CF34dC06129AfFD07F8a2a246A",
+        "name": "Mancer",
+        "symbol": "MANCER",
+        "decimals": 18
       }
     ]
   ],
