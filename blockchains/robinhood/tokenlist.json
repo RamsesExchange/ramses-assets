@@ -375,6 +375,12 @@
         "name": "Mancer",
         "symbol": "MANCER",
         "decimals": 18
+      },
+      {
+        "address": "0x51Fb76BE80ab6daAa345D818f4E06441816b4fEa",
+        "name": "NASDANQ",
+        "symbol": "NASDANQ",
+        "decimals": 18
       }
     ]
   ],
