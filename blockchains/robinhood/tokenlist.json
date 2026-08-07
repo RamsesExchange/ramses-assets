@@ -387,6 +387,12 @@
         "name": "Netflix & Chill",
         "symbol": "CHILL",
         "decimals": 18
+      },
+      {
+        "address": "0x5e81213613b6B86EaB4c6c50d718d34359459786",
+        "name": "Take-Two Interactive Software \u2022 Robinhood Token",
+        "symbol": "TTWO",
+        "decimals": 18
       }
     ]
   ],
