@@ -381,6 +381,12 @@
         "name": "NASDANQ",
         "symbol": "NASDANQ",
         "decimals": 18
+      },
+      {
+        "address": "0xbbf2C91FDcc488BA736E0c38adC82C9A92597deB",
+        "name": "Netflix & Chill",
+        "symbol": "CHILL",
+        "decimals": 18
       }
     ]
   ],
