@@ -435,6 +435,12 @@
         "name": "The Quack Pack",
         "symbol": "DUCKS",
         "decimals": 18
+      },
+      {
+        "address": "0xdB9bA2A5BC216e22a0a2CaA4D1B54Dc85c5b3b13",
+        "name": "KPOP",
+        "symbol": "KPOP",
+        "decimals": 18
       }
     ]
   ],
