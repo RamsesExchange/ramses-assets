@@ -429,6 +429,12 @@
         "name": "Boyz N The Hood",
         "symbol": "BOYZ",
         "decimals": 18
+      },
+      {
+        "address": "0x2321a690dEe79fb3568C258c476a467cE308904e",
+        "name": "The Quack Pack",
+        "symbol": "DUCKS",
+        "decimals": 18
       }
     ]
   ],
