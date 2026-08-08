@@ -441,6 +441,12 @@
         "name": "KPOP",
         "symbol": "KPOP",
         "decimals": 18
+      },
+      {
+        "address": "0xe15db7C8547A0adD11eB26A700246cCa08aEfCe5",
+        "name": "Shibinhood",
+        "symbol": "WOOF",
+        "decimals": 18
       }
     ]
   ],
