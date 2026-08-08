@@ -393,6 +393,12 @@
         "name": "Take-Two Interactive Software \u2022 Robinhood Token",
         "symbol": "TTWO",
         "decimals": 18
+      },
+      {
+        "address": "0x21Ed792De0Ebfa85c2f55FF45b2241C576727f7B",
+        "name": "divinely protected",
+        "symbol": "222",
+        "decimals": 18
       }
     ]
   ],
