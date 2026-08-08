@@ -399,6 +399,12 @@
         "name": "divinely protected",
         "symbol": "222",
         "decimals": 18
+      },
+      {
+        "address": "0x49bac47750F3dCdBa49350B5D74fd399e90f97C6",
+        "name": "The Bull",
+        "symbol": "BULL",
+        "decimals": 18
       }
     ]
   ],
