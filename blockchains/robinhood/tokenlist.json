@@ -423,6 +423,12 @@
         "name": "Lumentum \u2022 Robinhood Token",
         "symbol": "LITE",
         "decimals": 18
+      },
+      {
+        "address": "0x49D8022cfa113DaDb8cb1A5b22250524cf24B926",
+        "name": "Boyz N The Hood",
+        "symbol": "BOYZ",
+        "decimals": 18
       }
     ]
   ],
