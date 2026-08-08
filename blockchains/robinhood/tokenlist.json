@@ -417,6 +417,12 @@
         "name": "swappy",
         "symbol": "swappy",
         "decimals": 18
+      },
+      {
+        "address": "0x8eF20885F94e3D9bc7eB3080279188Bd5ED7c08C",
+        "name": "Lumentum \u2022 Robinhood Token",
+        "symbol": "LITE",
+        "decimals": 18
       }
     ]
   ],
