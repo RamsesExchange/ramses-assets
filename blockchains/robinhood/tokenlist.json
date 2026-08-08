@@ -405,6 +405,12 @@
         "name": "The Bull",
         "symbol": "BULL",
         "decimals": 18
+      },
+      {
+        "address": "0xCfe71fD6535a9E8dC278a9c59AC137699b41d701",
+        "name": "The Reddit Dog",
+        "symbol": "RUBY",
+        "decimals": 18
       }
     ]
   ],
