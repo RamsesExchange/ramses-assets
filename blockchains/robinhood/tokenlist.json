@@ -411,6 +411,12 @@
         "name": "The Reddit Dog",
         "symbol": "RUBY",
         "decimals": 18
+      },
+      {
+        "address": "0x298348d5b2e45C774E3ee4f1a0924071DfbDC8C7",
+        "name": "swappy",
+        "symbol": "swappy",
+        "decimals": 18
       }
     ]
   ],
