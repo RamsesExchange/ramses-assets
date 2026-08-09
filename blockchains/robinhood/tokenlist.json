@@ -459,6 +459,12 @@
         "name": "Boomer",
         "symbol": "BOOMER",
         "decimals": 18
+      },
+      {
+        "address": "0x6543B7746ca744C4bb2198191E71f40FF04C41b9",
+        "name": "DERP",
+        "symbol": "DERP",
+        "decimals": 18
       }
     ]
   ],
