@@ -471,6 +471,12 @@
         "name": "Cashcat Chain",
         "symbol": "CCC",
         "decimals": 18
+      },
+      {
+        "address": "0xD928A068d2B90798373a470c9D9bA562322ACdeF",
+        "name": "Purr Cat",
+        "symbol": "PURR",
+        "decimals": 18
       }
     ]
   ],
