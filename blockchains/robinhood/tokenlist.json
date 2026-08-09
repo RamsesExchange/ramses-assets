@@ -447,6 +447,12 @@
         "name": "Shibinhood",
         "symbol": "WOOF",
         "decimals": 18
+      },
+      {
+        "address": "0x7b630F080807DF83908b4aDE46BA6396EE66b098",
+        "name": "dont blink",
+        "symbol": "BLINK",
+        "decimals": 18
       }
     ]
   ],
