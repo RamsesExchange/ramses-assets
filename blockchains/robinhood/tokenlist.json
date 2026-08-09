@@ -453,6 +453,12 @@
         "name": "dont blink",
         "symbol": "BLINK",
         "decimals": 18
+      },
+      {
+        "address": "0xfDf085Fc400504cA734E9eF89C68d2b98e604c2c",
+        "name": "Boomer",
+        "symbol": "BOOMER",
+        "decimals": 18
       }
     ]
   ],
