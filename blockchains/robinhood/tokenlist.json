@@ -489,6 +489,12 @@
         "name": "NetNet",
         "symbol": "NET",
         "decimals": 9
+      },
+      {
+        "address": "0x9107A8038eEDD65960f3c24C01449a2Bfb1336cc",
+        "name": "world licking cat",
+        "symbol": "lickingcat",
+        "decimals": 18
       }
     ]
   ],
