@@ -399,6 +399,12 @@
         "name": "ValiDAO",
         "symbol": "VDO",
         "decimals": 18
+      },
+      {
+        "address": "0xD48ad2f34Ce9071ac130F55237c030643C5eeDe6",
+        "name": "Wrapped HAM",
+        "symbol": "wHAM",
+        "decimals": 24
       }
     ]
   ],
