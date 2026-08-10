@@ -483,6 +483,12 @@
         "name": "WISHBONE",
         "symbol": "WISHBONE",
         "decimals": 18
+      },
+      {
+        "address": "0xCA9c78Dd337A67F6e0077F65F5E9218719d30eDf",
+        "name": "NetNet",
+        "symbol": "NET",
+        "decimals": 9
       }
     ]
   ],
