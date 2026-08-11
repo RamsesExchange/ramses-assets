@@ -501,6 +501,12 @@
         "name": "up",
         "symbol": "UP",
         "decimals": 18
+      },
+      {
+        "address": "0x8C63B6adFb469Bbd0cD5d6EE64F73407f15f4c6c",
+        "name": "LogosLayer",
+        "symbol": "LOGOS",
+        "decimals": 18
       }
     ]
   ],
