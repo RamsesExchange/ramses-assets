@@ -507,6 +507,12 @@
         "name": "LogosLayer",
         "symbol": "LOGOS",
         "decimals": 18
+      },
+      {
+        "address": "0x8b48e9da0501A3556a961463FCf39BB426501D0d",
+        "name": "ROBO_BROKERS",
+        "symbol": "ROBO",
+        "decimals": 18
       }
     ]
   ],
