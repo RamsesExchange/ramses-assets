@@ -513,6 +513,12 @@
         "name": "ROBO_BROKERS",
         "symbol": "ROBO",
         "decimals": 18
+      },
+      {
+        "address": "0x451b42A15100C340CA12F7c66DE06fac5EA2D751",
+        "name": "Longbow",
+        "symbol": "BOW",
+        "decimals": 18
       }
     ]
   ],
