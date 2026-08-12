@@ -525,6 +525,12 @@
         "name": "Yardkeeper",
         "symbol": "YARD",
         "decimals": 18
+      },
+      {
+        "address": "0xfB50450B70C87Cf539F7eA369a71356236055c2b",
+        "name": "Wojak in Hood",
+        "symbol": "HOJAK",
+        "decimals": 9
       }
     ]
   ],
