@@ -519,6 +519,12 @@
         "name": "Longbow",
         "symbol": "BOW",
         "decimals": 18
+      },
+      {
+        "address": "0xE3FA12dA7fa026B21817f16622E8AE48fA785166",
+        "name": "Yardkeeper",
+        "symbol": "YARD",
+        "decimals": 18
       }
     ]
   ],
