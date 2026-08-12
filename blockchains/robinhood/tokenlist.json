@@ -531,6 +531,12 @@
         "name": "Wojak in Hood",
         "symbol": "HOJAK",
         "decimals": 9
+      },
+      {
+        "address": "0x0145AcbcceFbEd6F303C420bEeaaAc72E905430b",
+        "name": "Wolf Pack",
+        "symbol": "PACK",
+        "decimals": 18
       }
     ]
   ],
