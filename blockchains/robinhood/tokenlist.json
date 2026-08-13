@@ -537,6 +537,12 @@
         "name": "Wolf Pack",
         "symbol": "PACK",
         "decimals": 18
+      },
+      {
+        "address": "0xE9e347eCbE6C93cfEAD953481E3eDD781D0482EB",
+        "name": "RamenHood",
+        "symbol": "RAMEN",
+        "decimals": 18
       }
     ]
   ],
