@@ -1527,6 +1527,12 @@
         "name": "Red Cat \u2022 Robinhood Token",
         "symbol": "RCAT",
         "decimals": 18
+      },
+      {
+        "address": "0xFED508E349C47F669E57c1A1Ba476E5E0e6b918e",
+        "name": "Trump Media",
+        "symbol": "DJT",
+        "decimals": 18
       }
     ]
   ],
