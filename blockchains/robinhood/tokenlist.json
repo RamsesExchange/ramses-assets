@@ -1539,6 +1539,12 @@
         "name": "COCO",
         "symbol": "COCO",
         "decimals": 18
+      },
+      {
+        "address": "0xB03058B8A39f3967DF08d833682C1c99b29821B1",
+        "name": "TheCardWall",
+        "symbol": "WALL",
+        "decimals": 18
       }
     ]
   ],
