@@ -1545,6 +1545,12 @@
         "name": "TheCardWall",
         "symbol": "WALL",
         "decimals": 18
+      },
+      {
+        "address": "0x5173D45A1191eE33cBB7D8c7e65f21B04eD54802",
+        "name": "Ramses",
+        "symbol": "RAM",
+        "decimals": 18
       }
     ]
   ],
