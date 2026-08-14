@@ -1533,6 +1533,12 @@
         "name": "Trump Media",
         "symbol": "DJT",
         "decimals": 18
+      },
+      {
+        "address": "0x3AaA874b93612bF3f683b85e2739e81eaB38321e",
+        "name": "COCO",
+        "symbol": "COCO",
+        "decimals": 18
       }
     ]
   ],
