@@ -1569,6 +1569,12 @@
         "name": "Strike",
         "symbol": "STRIKE",
         "decimals": 18
+      },
+      {
+        "address": "0x65CE2b19f5b0130Ac87A67df1608c6C1c493873c",
+        "name": "StonkBankers",
+        "symbol": "STONKBANKERS",
+        "decimals": 18
       }
     ]
   ],
