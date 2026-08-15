@@ -1557,6 +1557,12 @@
         "name": "xRAM Liquid Staking Token",
         "symbol": "r33",
         "decimals": 18
+      },
+      {
+        "address": "0xe8fB470E0685437d7739BD2AacBA60b228800335",
+        "name": "THROBBIN",
+        "symbol": "THROBBIN",
+        "decimals": 18
       }
     ]
   ],
