@@ -1551,6 +1551,12 @@
         "name": "Ramses",
         "symbol": "RAM",
         "decimals": 18
+      },
+      {
+        "address": "0x4e5195469A0360f5dfe811730C9CCaCFF0a0FeeE",
+        "name": "xRAM Liquid Staking Token",
+        "symbol": "r33",
+        "decimals": 18
       }
     ]
   ],
