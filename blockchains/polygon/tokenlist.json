@@ -51,6 +51,12 @@
         "name": "WBTC",
         "symbol": "WBTC",
         "decimals": 8
+      },
+      {
+        "address": "0xe3Bc31a2F12ACFF0e5ffb2b37985fDd913b98B7a",
+        "name": "xRAM Liquid Staking Token",
+        "symbol": "r33",
+        "decimals": 18
       }
     ]
   ],
