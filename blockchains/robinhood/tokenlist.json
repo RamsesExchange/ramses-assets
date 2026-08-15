@@ -1563,6 +1563,12 @@
         "name": "THROBBIN",
         "symbol": "THROBBIN",
         "decimals": 18
+      },
+      {
+        "address": "0x5aeD379A72BD2533371d153135c47d5EB61BaBc8",
+        "name": "Strike",
+        "symbol": "STRIKE",
+        "decimals": 18
       }
     ]
   ],
