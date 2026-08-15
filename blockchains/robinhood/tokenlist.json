@@ -1575,6 +1575,12 @@
         "name": "StonkBankers",
         "symbol": "STONKBANKERS",
         "decimals": 18
+      },
+      {
+        "address": "0x315A404872AE8D4FaD6939461a4ab0B691817777",
+        "name": "Copper Pot of Wealth",
+        "symbol": "COOKWARE",
+        "decimals": 18
       }
     ]
   ],
