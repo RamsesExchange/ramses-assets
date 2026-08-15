@@ -1581,6 +1581,12 @@
         "name": "Copper Pot of Wealth",
         "symbol": "COOKWARE",
         "decimals": 18
+      },
+      {
+        "address": "0xe8ffd7e24187F72afB08d75B1bb13088A989a791",
+        "name": "Delta",
+        "symbol": "DELTA",
+        "decimals": 18
       }
     ]
   ],
