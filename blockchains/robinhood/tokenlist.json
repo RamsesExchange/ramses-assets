@@ -1587,6 +1587,12 @@
         "name": "Delta",
         "symbol": "DELTA",
         "decimals": 18
+      },
+      {
+        "address": "0x0762C1708F0D23F86b29D6B857121FF7DF357506",
+        "name": "this is not a website",
+        "symbol": "website",
+        "decimals": 18
       }
     ]
   ],
