@@ -1593,6 +1593,12 @@
         "name": "this is not a website",
         "symbol": "website",
         "decimals": 18
+      },
+      {
+        "address": "0x5173b8eA6923c2d40267890D45C46a3480954773",
+        "name": "World is Flat",
+        "symbol": "WIF",
+        "decimals": 18
       }
     ]
   ],
