@@ -1599,6 +1599,12 @@
         "name": "World is Flat",
         "symbol": "WIF",
         "decimals": 18
+      },
+      {
+        "address": "0x034d81835137ea6579A3824fc47176AdE055C76D",
+        "name": "Pools Closed",
+        "symbol": "CLOSED",
+        "decimals": 18
       }
     ]
   ],
