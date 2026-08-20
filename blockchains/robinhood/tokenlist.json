@@ -1605,6 +1605,12 @@
         "name": "Pools Closed",
         "symbol": "CLOSED",
         "decimals": 18
+      },
+      {
+        "address": "0xA5be0eEb82a013Dc7867B9e020c36A69DA666666",
+        "name": "CLOCK IN",
+        "symbol": "CLOCKIN",
+        "decimals": 18
       }
     ]
   ],
