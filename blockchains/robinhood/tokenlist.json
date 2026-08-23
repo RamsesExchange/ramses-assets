@@ -1611,6 +1611,12 @@
         "name": "CLOCK IN",
         "symbol": "CLOCKIN",
         "decimals": 18
+      },
+      {
+        "address": "0x133698A17B7b5c2b981555C56c2B00824f517C1b",
+        "name": "Vlad Taneev",
+        "symbol": "Vlad",
+        "decimals": 18
       }
     ]
   ],
