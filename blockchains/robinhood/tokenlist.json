@@ -1617,6 +1617,12 @@
         "name": "Vlad Taneev",
         "symbol": "Vlad",
         "decimals": 18
+      },
+      {
+        "address": "0xfe242d1Da8FD04f6A1F80B6D3d807B02e062Ad4E",
+        "name": "Obscura",
+        "symbol": "OBS",
+        "decimals": 18
       }
     ]
   ],
