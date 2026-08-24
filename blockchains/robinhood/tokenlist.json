@@ -1635,6 +1635,12 @@
         "name": "Business Coin",
         "symbol": "BUSINESS",
         "decimals": 18
+      },
+      {
+        "address": "0x6B12ec435f15F823ee3C550e9013123e4187429B",
+        "name": "Rocket",
+        "symbol": "\ud83d\ude80",
+        "decimals": 18
       }
     ]
   ],
