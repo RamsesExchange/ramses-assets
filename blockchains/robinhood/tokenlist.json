@@ -1623,6 +1623,12 @@
         "name": "Obscura",
         "symbol": "OBS",
         "decimals": 18
+      },
+      {
+        "address": "0xAc77646bcff9d52e99800534192E0290933F4094",
+        "name": "Martians",
+        "symbol": "MARTIANS",
+        "decimals": 18
       }
     ]
   ],
