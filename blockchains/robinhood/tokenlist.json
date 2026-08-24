@@ -1629,6 +1629,12 @@
         "name": "Martians",
         "symbol": "MARTIANS",
         "decimals": 18
+      },
+      {
+        "address": "0x9C482F234a3d8EE6B7dC4825a329F62845450c5B",
+        "name": "Business Coin",
+        "symbol": "BUSINESS",
+        "decimals": 18
       }
     ]
   ],
