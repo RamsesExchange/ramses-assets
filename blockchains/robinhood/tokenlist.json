@@ -1641,6 +1641,12 @@
         "name": "Rocket",
         "symbol": "\ud83d\ude80",
         "decimals": 18
+      },
+      {
+        "address": "0xD7321801CAae694090694Ff55A9323139F043B88",
+        "name": "The Juggernaut",
+        "symbol": "JUGGERNAUT",
+        "decimals": 18
       }
     ]
   ],
