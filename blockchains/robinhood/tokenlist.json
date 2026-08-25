@@ -1653,6 +1653,12 @@
         "name": "Tygr",
         "symbol": "TYGR",
         "decimals": 18
+      },
+      {
+        "address": "0xe0eba1B76b73BE7bfA7716b6Ca96f724930e2263",
+        "name": "Robbie",
+        "symbol": "$ROBBIE",
+        "decimals": 18
       }
     ]
   ],
