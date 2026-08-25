@@ -1659,6 +1659,12 @@
         "name": "Robbie",
         "symbol": "$ROBBIE",
         "decimals": 18
+      },
+      {
+        "address": "0xeE5576Fa1Bcaa380e591D01245f406f3f384eb01",
+        "name": "Down to Finance",
+        "symbol": "DTF",
+        "decimals": 18
       }
     ]
   ],
