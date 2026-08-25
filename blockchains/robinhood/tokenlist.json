@@ -1647,6 +1647,12 @@
         "name": "The Juggernaut",
         "symbol": "JUGGERNAUT",
         "decimals": 18
+      },
+      {
+        "address": "0x69984Ad3322300039f2855f81C44Dbc532EFe744",
+        "name": "Tygr",
+        "symbol": "TYGR",
+        "decimals": 18
       }
     ]
   ],
