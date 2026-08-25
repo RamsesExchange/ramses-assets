@@ -1665,6 +1665,12 @@
         "name": "Down to Finance",
         "symbol": "DTF",
         "decimals": 18
+      },
+      {
+        "address": "0xb9972CA7188e511174947E3936a5315ac7073277",
+        "name": "Prologue",
+        "symbol": "PROLOGUE",
+        "decimals": 18
       }
     ]
   ],
