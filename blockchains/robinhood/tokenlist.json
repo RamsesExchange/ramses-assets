@@ -1671,6 +1671,12 @@
         "name": "Prologue",
         "symbol": "PROLOGUE",
         "decimals": 18
+      },
+      {
+        "address": "0x320D9B0F1B438567D28452B715f8766a7617043E",
+        "name": "Earth Coin",
+        "symbol": "EARTHCOIN",
+        "decimals": 18
       }
     ]
   ],
