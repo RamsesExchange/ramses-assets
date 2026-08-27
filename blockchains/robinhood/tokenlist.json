@@ -1677,6 +1677,12 @@
         "name": "Earth Coin",
         "symbol": "EARTHCOIN",
         "decimals": 18
+      },
+      {
+        "address": "0xCEbc0cFbc5DD0893A9E3B9D0f75b211DDf5934A0",
+        "name": "clan.tech",
+        "symbol": "CLAN",
+        "decimals": 18
       }
     ]
   ],
