@@ -1689,6 +1689,12 @@
         "name": "microduck",
         "symbol": "microduck",
         "decimals": 18
+      },
+      {
+        "address": "0x85856F025BF13b8Fd2aaE2F6DA458318744F1E18",
+        "name": "Clippy",
+        "symbol": "CLIPPY",
+        "decimals": 18
       }
     ]
   ],
