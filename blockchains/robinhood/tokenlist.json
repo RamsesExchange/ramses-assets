@@ -1707,6 +1707,12 @@
         "name": "SHIT",
         "symbol": "SHIT",
         "decimals": 18
+      },
+      {
+        "address": "0x62C71cd34a52c30d894419CBcc55Db2aFA8032eA",
+        "name": "YOLO",
+        "symbol": "YOLO",
+        "decimals": 18
       }
     ]
   ],
