@@ -1767,6 +1767,12 @@
         "name": "fBOMB",
         "symbol": "fBOMB on Robinhood\ud83d\udca5",
         "decimals": 18
+      },
+      {
+        "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4",
+        "name": "Coinbase Wrapped BTC",
+        "symbol": "cbBTC",
+        "decimals": 8
       }
     ]
   ],
