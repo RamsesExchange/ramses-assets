@@ -1737,6 +1737,12 @@
         "name": "Pons Index",
         "symbol": "PONSFOLIO",
         "decimals": 18
+      },
+      {
+        "address": "0x28BfF607409535285A5392f0b79516673b6072ac",
+        "name": "Cat Purrcessing Unit",
+        "symbol": "CPU",
+        "decimals": 18
       }
     ]
   ],
