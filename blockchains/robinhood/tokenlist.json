@@ -1731,6 +1731,12 @@
         "name": "Nine to Five",
         "symbol": "NTF",
         "decimals": 18
+      },
+      {
+        "address": "0xa0e67be79118704A35e7d4b20C3EC4Df36EF6e10",
+        "name": "Pons Index",
+        "symbol": "PONSFOLIO",
+        "decimals": 18
       }
     ]
   ],
