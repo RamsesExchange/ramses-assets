@@ -1725,6 +1725,12 @@
         "name": "TA FUND",
         "symbol": "TA",
         "decimals": 18
+      },
+      {
+        "address": "0x27E9d5067596132936427Ee311F05B339a50eBa6",
+        "name": "Nine to Five",
+        "symbol": "NTF",
+        "decimals": 18
       }
     ]
   ],
