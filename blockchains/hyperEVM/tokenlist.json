@@ -405,6 +405,12 @@
         "name": "Wrapped HAM",
         "symbol": "wHAM",
         "decimals": 24
+      },
+      {
+        "address": "0xA300c891157803e72370d15A30CcEDfFc7153142",
+        "name": "Brila Finance",
+        "symbol": "BRLA",
+        "decimals": 8
       }
     ]
   ],
