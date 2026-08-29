@@ -1695,6 +1695,12 @@
         "name": "Clippy",
         "symbol": "CLIPPY",
         "decimals": 18
+      },
+      {
+        "address": "0x9De83d01BC3D0857435529D931679bA5Dc31Ddf4",
+        "name": "BLACKROCK",
+        "symbol": "BLACKROCK",
+        "decimals": 18
       }
     ]
   ],
