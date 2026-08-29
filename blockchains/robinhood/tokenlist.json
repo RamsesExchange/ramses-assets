@@ -1719,6 +1719,12 @@
         "name": "Motion",
         "symbol": "MOTION",
         "decimals": 18
+      },
+      {
+        "address": "0x9cA1cC0c90d97B4F36c5E2232d4fbD705a73c65d",
+        "name": "TA FUND",
+        "symbol": "TA",
+        "decimals": 18
       }
     ]
   ],
