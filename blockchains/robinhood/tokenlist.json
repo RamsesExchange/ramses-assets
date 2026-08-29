@@ -1761,6 +1761,12 @@
         "name": "AGI Frog",
         "symbol": "AGI",
         "decimals": 18
+      },
+      {
+        "address": "0x84d6BB25d3b013c784bE60dC598c920588F452bC",
+        "name": "fBOMB",
+        "symbol": "fBOMB on Robinhood\ud83d\udca5",
+        "decimals": 18
       }
     ]
   ],
