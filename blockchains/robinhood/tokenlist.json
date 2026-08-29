@@ -1755,6 +1755,12 @@
         "name": "Verona",
         "symbol": "VERONA",
         "decimals": 18
+      },
+      {
+        "address": "0x5a8625d314fDd298101d87932A784b756A401e18",
+        "name": "AGI Frog",
+        "symbol": "AGI",
+        "decimals": 18
       }
     ]
   ],
