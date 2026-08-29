@@ -1713,6 +1713,12 @@
         "name": "YOLO",
         "symbol": "YOLO",
         "decimals": 18
+      },
+      {
+        "address": "0xB0Fea401F1ee62F0e7cC3Bdf94b20c25aB5117e2",
+        "name": "Motion",
+        "symbol": "MOTION",
+        "decimals": 18
       }
     ]
   ],
