@@ -1743,6 +1743,12 @@
         "name": "Cat Purrcessing Unit",
         "symbol": "CPU",
         "decimals": 18
+      },
+      {
+        "address": "0xfF5F5Ed5380A628427c9cF76D573a10a5521EC31",
+        "name": "PALANTIR",
+        "symbol": "PLTR",
+        "decimals": 18
       }
     ]
   ],
