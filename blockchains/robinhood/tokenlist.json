@@ -1749,6 +1749,12 @@
         "name": "PALANTIR",
         "symbol": "PLTR",
         "decimals": 18
+      },
+      {
+        "address": "0x3d0Ef79957D2f7114A7c5fc0cA9F13f19c342764",
+        "name": "Verona",
+        "symbol": "VERONA",
+        "decimals": 18
       }
     ]
   ],
