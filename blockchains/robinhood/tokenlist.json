@@ -1785,6 +1785,12 @@
         "name": "Sinjoh",
         "symbol": "INJOH",
         "decimals": 18
+      },
+      {
+        "address": "0x9936403A9cc72CF306063E3496EA387428A3aeCd",
+        "name": "ABSOLUTE CINEMA",
+        "symbol": "CINEMA",
+        "decimals": 18
       }
     ]
   ],
