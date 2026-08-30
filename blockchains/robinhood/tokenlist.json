@@ -1773,6 +1773,12 @@
         "name": "Coinbase Wrapped BTC",
         "symbol": "cbBTC",
         "decimals": 8
+      },
+      {
+        "address": "0x9c05CBEc6C6F8cE87926fec6A491314030D4215C",
+        "name": "Costco Hotdog",
+        "symbol": "HOTDOG",
+        "decimals": 18
       }
     ]
   ],
