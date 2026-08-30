@@ -1779,6 +1779,12 @@
         "name": "Costco Hotdog",
         "symbol": "HOTDOG",
         "decimals": 18
+      },
+      {
+        "address": "0x2cC0FAC44B8252f6B10208B091aFf2c94B4da77D",
+        "name": "Sinjoh",
+        "symbol": "INJOH",
+        "decimals": 18
       }
     ]
   ],
