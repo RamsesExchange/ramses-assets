@@ -1797,6 +1797,12 @@
         "name": "Hotpack",
         "symbol": "HOT",
         "decimals": 18
+      },
+      {
+        "address": "0x85a574f2fF0795685F58d1D7B0D4b51F148Ac489",
+        "name": "PRINTER",
+        "symbol": "PRINTER",
+        "decimals": 18
       }
     ]
   ],
