@@ -1791,6 +1791,12 @@
         "name": "ABSOLUTE CINEMA",
         "symbol": "CINEMA",
         "decimals": 18
+      },
+      {
+        "address": "0x4597319a6C157140548F427bEbaAE29ff71D16Ff",
+        "name": "Hotpack",
+        "symbol": "HOT",
+        "decimals": 18
       }
     ]
   ],
