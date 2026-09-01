@@ -1911,6 +1911,12 @@
         "name": "BALD",
         "symbol": "BALD",
         "decimals": 18
+      },
+      {
+        "address": "0x57C09A6E007db9BaE23Ec4213f490033a7299e5E",
+        "name": "No Income No Job or Assets",
+        "symbol": "NINJA",
+        "decimals": 18
       }
     ]
   ],
