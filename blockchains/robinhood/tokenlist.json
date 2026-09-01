@@ -1821,6 +1821,12 @@
         "name": "ubik",
         "symbol": "UBIK",
         "decimals": 18
+      },
+      {
+        "address": "0x9F2C82a2b5C40472A3c6Aa3d678C5858345EC71e",
+        "name": "Ligma",
+        "symbol": "LIGMA",
+        "decimals": 18
       }
     ]
   ],
