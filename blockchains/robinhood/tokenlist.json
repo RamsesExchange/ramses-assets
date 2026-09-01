@@ -1833,6 +1833,12 @@
         "name": "Quantum White Fiber Rabbit",
         "symbol": "Rabbit",
         "decimals": 18
+      },
+      {
+        "address": "0x12D5ee7917cA430073C3A638ee1e6f0648A98a01",
+        "name": "FATCOIN",
+        "symbol": "FATCOIN",
+        "decimals": 18
       }
     ]
   ],
