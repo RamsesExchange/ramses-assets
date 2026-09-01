@@ -1887,6 +1887,12 @@
         "name": "CHUD",
         "symbol": "CHUD",
         "decimals": 18
+      },
+      {
+        "address": "0x38C8f642A04FEaC9899990276b4207fE4F621e18",
+        "name": "cashbird",
+        "symbol": "CASHBIRD",
+        "decimals": 18
       }
     ]
   ],
