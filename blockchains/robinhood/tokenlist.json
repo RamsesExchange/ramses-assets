@@ -1815,6 +1815,12 @@
         "name": "GIGA",
         "symbol": "GIGA",
         "decimals": 18
+      },
+      {
+        "address": "0x812486EAea648819853F8E372dc9f1516C7868Bd",
+        "name": "ubik",
+        "symbol": "UBIK",
+        "decimals": 18
       }
     ]
   ],
