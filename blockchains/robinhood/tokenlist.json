@@ -1869,6 +1869,12 @@
         "name": "Quantum Inu",
         "symbol": "QI",
         "decimals": 18
+      },
+      {
+        "address": "0xbD6638ba50Ce2f139D4f30EEaa03bd2533bB8e0c",
+        "name": "press.fun",
+        "symbol": "PRESS",
+        "decimals": 18
       }
     ]
   ],
