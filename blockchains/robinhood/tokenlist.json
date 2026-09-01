@@ -1899,6 +1899,12 @@
         "name": "ASTEROID",
         "symbol": "ASTEROID",
         "decimals": 18
+      },
+      {
+        "address": "0xEaA86c0F9ee8a83Ad303AbE2d3170d223C22C522",
+        "name": "Passive Income Generator",
+        "symbol": "PIG",
+        "decimals": 18
       }
     ]
   ],
