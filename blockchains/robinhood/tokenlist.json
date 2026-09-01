@@ -1893,6 +1893,12 @@
         "name": "cashbird",
         "symbol": "CASHBIRD",
         "decimals": 18
+      },
+      {
+        "address": "0xFd82D8DB539b6AcE0D50815845133767e24F1E18",
+        "name": "ASTEROID",
+        "symbol": "ASTEROID",
+        "decimals": 18
       }
     ]
   ],
