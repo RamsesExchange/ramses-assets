@@ -1893,12 +1893,6 @@
         "name": "cashbird",
         "symbol": "CASHBIRD",
         "decimals": 18
-      },
-      {
-        "address": "0xa49F4285353520723a77ac1d0711b86cb04f88B3",
-        "name": "peptidezz.io",
-        "symbol": "RETA",
-        "decimals": 18
       }
     ]
   ],
