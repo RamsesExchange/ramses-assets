@@ -1845,6 +1845,12 @@
         "name": "STONKS",
         "symbol": "STONKS",
         "decimals": 18
+      },
+      {
+        "address": "0xd4aAe326dDd1a2537A92C00E6576E4605e5D1e18",
+        "name": "AUTSM",
+        "symbol": "AU",
+        "decimals": 18
       }
     ]
   ],
