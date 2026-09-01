@@ -1875,6 +1875,12 @@
         "name": "press.fun",
         "symbol": "PRESS",
         "decimals": 18
+      },
+      {
+        "address": "0xded852De9fe9bA9b6f27f39e8e81CF851A5C79cc",
+        "name": "ROBINCAT",
+        "symbol": "ROBINCAT",
+        "decimals": 18
       }
     ]
   ],
