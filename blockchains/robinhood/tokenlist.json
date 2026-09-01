@@ -1905,6 +1905,12 @@
         "name": "Passive Income Generator",
         "symbol": "PIG",
         "decimals": 18
+      },
+      {
+        "address": "0x7ccC7e87ca902Ab764cF359eDeF0Fb0386221E18",
+        "name": "BALD",
+        "symbol": "BALD",
+        "decimals": 18
       }
     ]
   ],
