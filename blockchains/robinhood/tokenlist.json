@@ -1803,6 +1803,12 @@
         "name": "PRINTER",
         "symbol": "PRINTER",
         "decimals": 18
+      },
+      {
+        "address": "0x98096d17e191B3dA1d5f99a6D7b3584351b11E18",
+        "name": "Boner Coin",
+        "symbol": "BONER",
+        "decimals": 18
       }
     ]
   ],
