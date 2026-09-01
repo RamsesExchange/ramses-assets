@@ -1881,6 +1881,12 @@
         "name": "ROBINCAT",
         "symbol": "ROBINCAT",
         "decimals": 18
+      },
+      {
+        "address": "0x52E0502a786D4bf759Ddc2AD4F0b4608EfC61e18",
+        "name": "CHUD",
+        "symbol": "CHUD",
+        "decimals": 18
       }
     ]
   ],
