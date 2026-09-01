@@ -1863,6 +1863,12 @@
         "name": "Kip",
         "symbol": "KIP",
         "decimals": 18
+      },
+      {
+        "address": "0x518ABf0972da8E13b25D1dDA06e8092C25577C01",
+        "name": "Quantum Inu",
+        "symbol": "QI",
+        "decimals": 18
       }
     ]
   ],
