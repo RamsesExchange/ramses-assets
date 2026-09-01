@@ -1809,6 +1809,12 @@
         "name": "Boner Coin",
         "symbol": "BONER",
         "decimals": 18
+      },
+      {
+        "address": "0x5BaaeC1B70864f01dbdb747358FF59F2E2cCF7D5",
+        "name": "GIGA",
+        "symbol": "GIGA",
+        "decimals": 18
       }
     ]
   ],
