@@ -1857,6 +1857,12 @@
         "name": "Baby Oil",
         "symbol": "DIDDY",
         "decimals": 18
+      },
+      {
+        "address": "0xa48524a14C0d7194638EffDD36d8002e0839f942",
+        "name": "Kip",
+        "symbol": "KIP",
+        "decimals": 18
       }
     ]
   ],
