@@ -1839,6 +1839,12 @@
         "name": "FATCOIN",
         "symbol": "FATCOIN",
         "decimals": 18
+      },
+      {
+        "address": "0x238239d8Fbec75ebC08acA988447bC1926F615e0",
+        "name": "STONKS",
+        "symbol": "STONKS",
+        "decimals": 18
       }
     ]
   ],
