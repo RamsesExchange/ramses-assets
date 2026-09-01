@@ -1827,6 +1827,12 @@
         "name": "Ligma",
         "symbol": "LIGMA",
         "decimals": 18
+      },
+      {
+        "address": "0xCD1cca2B3d0A11b295c42fe765ea8f895c2D0901",
+        "name": "Quantum White Fiber Rabbit",
+        "symbol": "Rabbit",
+        "decimals": 18
       }
     ]
   ],
