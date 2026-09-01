@@ -1851,6 +1851,12 @@
         "name": "AUTSM",
         "symbol": "AU",
         "decimals": 18
+      },
+      {
+        "address": "0x1409f68D7A63F2222741E632f78100887043f001",
+        "name": "Baby Oil",
+        "symbol": "DIDDY",
+        "decimals": 18
       }
     ]
   ],
