@@ -1947,6 +1947,12 @@
         "name": "John Dog",
         "symbol": "JOHNDOG",
         "decimals": 18
+      },
+      {
+        "address": "0xD1efCE38684400cfE7343Ab52De8d1fbe4c54f18",
+        "name": "people",
+        "symbol": "people",
+        "decimals": 18
       }
     ]
   ],
