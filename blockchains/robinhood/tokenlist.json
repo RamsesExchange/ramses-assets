@@ -1935,6 +1935,12 @@
         "name": "Optimus",
         "symbol": "OPTIMUS",
         "decimals": 18
+      },
+      {
+        "address": "0x06e52E5fdDF0D8A6d10B963c753A8eF3E1161e18",
+        "name": "Apple Dog",
+        "symbol": "AAPLDOG",
+        "decimals": 18
       }
     ]
   ],
