@@ -1953,6 +1953,12 @@
         "name": "people",
         "symbol": "people",
         "decimals": 18
+      },
+      {
+        "address": "0x92ef7CaA35F85f50311Fa5eD7ADE2D9786C61612",
+        "name": "normie",
+        "symbol": "NORMIE",
+        "decimals": 18
       }
     ]
   ],
