@@ -1989,6 +1989,12 @@
         "name": "Manyways Inference",
         "symbol": "MANY",
         "decimals": 18
+      },
+      {
+        "address": "0xb7eaeCc89d3e2f9Fd597D61726aE824900dB8360",
+        "name": "Stratton Market",
+        "symbol": "STRATTON",
+        "decimals": 18
       }
     ]
   ],
