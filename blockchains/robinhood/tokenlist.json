@@ -1983,6 +1983,12 @@
         "name": "Chrome Dino",
         "symbol": "DINO",
         "decimals": 18
+      },
+      {
+        "address": "0xa26992C4268A8a78a4d872FE4BDAD2Ed03aC287d",
+        "name": "Manyways Inference",
+        "symbol": "MANY",
+        "decimals": 18
       }
     ]
   ],
