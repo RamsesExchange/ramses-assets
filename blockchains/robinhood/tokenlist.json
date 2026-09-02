@@ -1995,6 +1995,12 @@
         "name": "Stratton Market",
         "symbol": "STRATTON",
         "decimals": 18
+      },
+      {
+        "address": "0xFe7E19CbCe2f896C6C528BC355bAF5a768291E18",
+        "name": "SPACEHOOD",
+        "symbol": "SPACEHOOD",
+        "decimals": 18
       }
     ]
   ],
