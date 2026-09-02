@@ -1917,6 +1917,12 @@
         "name": "No Income No Job or Assets",
         "symbol": "NINJA",
         "decimals": 18
+      },
+      {
+        "address": "0xAa07A0e9209e16aC99708C3EC70159c6eF3128A3",
+        "name": "Orbio.so",
+        "symbol": "ORBIO",
+        "decimals": 18
       }
     ]
   ],
