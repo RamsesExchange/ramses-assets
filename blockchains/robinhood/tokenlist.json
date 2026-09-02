@@ -1923,6 +1923,12 @@
         "name": "Orbio.so",
         "symbol": "ORBIO",
         "decimals": 18
+      },
+      {
+        "address": "0x1Fe2Abf68aad1d5b7A0339fBbFdbAd8E2b1d1E18",
+        "name": "GOYBEAM",
+        "symbol": "GOYBEAM",
+        "decimals": 18
       }
     ]
   ],
