@@ -2031,6 +2031,12 @@
         "name": "Palantard",
         "symbol": "PALANTARD",
         "decimals": 18
+      },
+      {
+        "address": "0xaAc0Eaf0B8a17FB428903D274413a1Fca36AEB03",
+        "name": "Kirkland",
+        "symbol": "KIRKLAND",
+        "decimals": 18
       }
     ]
   ],
