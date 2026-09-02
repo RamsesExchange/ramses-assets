@@ -1959,6 +1959,12 @@
         "name": "normie",
         "symbol": "NORMIE",
         "decimals": 18
+      },
+      {
+        "address": "0xD9dB30BB0D2b8d2eae3826A1372117E058791e18",
+        "name": "Memory cow Moo",
+        "symbol": "MOO",
+        "decimals": 18
       }
     ]
   ],
