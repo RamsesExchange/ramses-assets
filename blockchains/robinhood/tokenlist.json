@@ -2013,6 +2013,12 @@
         "name": "gooncoin",
         "symbol": "GOON",
         "decimals": 18
+      },
+      {
+        "address": "0xad6629157a774007E46945bb1B6013C79e7656C9",
+        "name": "CAYENNEcoin",
+        "symbol": "CAYENNE",
+        "decimals": 18
       }
     ]
   ],
