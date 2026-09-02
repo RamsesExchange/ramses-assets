@@ -1965,6 +1965,12 @@
         "name": "Memory cow Moo",
         "symbol": "MOO",
         "decimals": 18
+      },
+      {
+        "address": "0xbe98b75361935b18d688409424a869a4C3dC7401",
+        "name": "Send Nudes",
+        "symbol": "NUDES",
+        "decimals": 18
       }
     ]
   ],
