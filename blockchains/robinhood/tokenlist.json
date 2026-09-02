@@ -1929,6 +1929,12 @@
         "name": "GOYBEAM",
         "symbol": "GOYBEAM",
         "decimals": 18
+      },
+      {
+        "address": "0x0fF9072a1EAD154d92C2d2Fef16AFba6028Ce2B2",
+        "name": "Optimus",
+        "symbol": "OPTIMUS",
+        "decimals": 18
       }
     ]
   ],
