@@ -1977,6 +1977,12 @@
         "name": "9/11",
         "symbol": "911",
         "decimals": 18
+      },
+      {
+        "address": "0x000b2164a76560323163343431Db8bE550F164B8",
+        "name": "Chrome Dino",
+        "symbol": "DINO",
+        "decimals": 18
       }
     ]
   ],
