@@ -2019,6 +2019,12 @@
         "name": "CAYENNEcoin",
         "symbol": "CAYENNE",
         "decimals": 18
+      },
+      {
+        "address": "0x66e73ef65528Baf192679222c6D2810D7D7e2c68",
+        "name": "Blokks",
+        "symbol": "BLOKKS",
+        "decimals": 18
       }
     ]
   ],
