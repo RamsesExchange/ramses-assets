@@ -2025,6 +2025,12 @@
         "name": "Blokks",
         "symbol": "BLOKKS",
         "decimals": 18
+      },
+      {
+        "address": "0x0a2329aA1b3eEFE403aB3be5f5683d31Ebf81e18",
+        "name": "Palantard",
+        "symbol": "PALANTARD",
+        "decimals": 18
       }
     ]
   ],
