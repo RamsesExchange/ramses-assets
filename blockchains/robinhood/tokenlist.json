@@ -2001,6 +2001,12 @@
         "name": "SPACEHOOD",
         "symbol": "SPACEHOOD",
         "decimals": 18
+      },
+      {
+        "address": "0x1C1DAEF0300551aDBfbE403e7d567b6c5aFF566f",
+        "name": "hotdog",
+        "symbol": "HOTDOG",
+        "decimals": 18
       }
     ]
   ],
