@@ -1971,6 +1971,12 @@
         "name": "Send Nudes",
         "symbol": "NUDES",
         "decimals": 18
+      },
+      {
+        "address": "0x2c26e9D6ec4202f892a0f3603C9C70A1e732C001",
+        "name": "9/11",
+        "symbol": "911",
+        "decimals": 18
       }
     ]
   ],
