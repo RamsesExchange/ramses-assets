@@ -2007,6 +2007,12 @@
         "name": "hotdog",
         "symbol": "HOTDOG",
         "decimals": 18
+      },
+      {
+        "address": "0x997173e7957fA6E1899ab6C0E647f3B27b4611C0",
+        "name": "gooncoin",
+        "symbol": "GOON",
+        "decimals": 18
       }
     ]
   ],
