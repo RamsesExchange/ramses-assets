@@ -1941,6 +1941,12 @@
         "name": "Apple Dog",
         "symbol": "AAPLDOG",
         "decimals": 18
+      },
+      {
+        "address": "0x64bcF4aA85559526cFf0528BCDc0Cb9d3ea41e18",
+        "name": "John Dog",
+        "symbol": "JOHNDOG",
+        "decimals": 18
       }
     ]
   ],
