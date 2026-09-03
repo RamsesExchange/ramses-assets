@@ -2073,6 +2073,12 @@
         "name": "Buy and forget",
         "symbol": "ALZHEIMERS",
         "decimals": 18
+      },
+      {
+        "address": "0x3786728a2c49C4617Bf4FE5BD82b90B6B0dF5508",
+        "name": "Denar Markets",
+        "symbol": "DENAR",
+        "decimals": 18
       }
     ]
   ],
