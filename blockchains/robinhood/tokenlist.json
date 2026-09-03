@@ -2079,6 +2079,12 @@
         "name": "Denar Markets",
         "symbol": "DENAR",
         "decimals": 18
+      },
+      {
+        "address": "0x4bd2f56720AD5d5Aa077D64e57420a357cb91e18",
+        "name": "HARAMBE",
+        "symbol": "HARAM",
+        "decimals": 18
       }
     ]
   ],
