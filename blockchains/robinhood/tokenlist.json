@@ -2067,6 +2067,12 @@
         "name": "Bundle Cat",
         "symbol": "BUN",
         "decimals": 18
+      },
+      {
+        "address": "0x4cf6b98699821AD707B31addFc04F39D86F01e18",
+        "name": "Buy and forget",
+        "symbol": "ALZHEIMERS",
+        "decimals": 18
       }
     ]
   ],
