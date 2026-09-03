@@ -2061,6 +2061,12 @@
         "name": "Ravenhood",
         "symbol": "RVH",
         "decimals": 18
+      },
+      {
+        "address": "0x07EBB29a38Fbcb41563817e5E19f2ceC619C90D2",
+        "name": "Bundle Cat",
+        "symbol": "BUN",
+        "decimals": 18
       }
     ]
   ],
