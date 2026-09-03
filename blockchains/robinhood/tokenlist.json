@@ -2049,6 +2049,12 @@
         "name": "iCoin",
         "symbol": "ICOIN",
         "decimals": 18
+      },
+      {
+        "address": "0x69c68e4C00C6F6e4Ac027300293a879Be1E11E18",
+        "name": "ap",
+        "symbol": "AP",
+        "decimals": 18
       }
     ]
   ],
