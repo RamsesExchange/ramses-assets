@@ -2055,6 +2055,12 @@
         "name": "ap",
         "symbol": "AP",
         "decimals": 18
+      },
+      {
+        "address": "0x96765066f6a040a21EB027167D2315B707c82633",
+        "name": "Ravenhood",
+        "symbol": "RVH",
+        "decimals": 18
       }
     ]
   ],
