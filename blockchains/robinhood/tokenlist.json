@@ -2037,6 +2037,12 @@
         "name": "Kirkland",
         "symbol": "KIRKLAND",
         "decimals": 18
+      },
+      {
+        "address": "0xe16D1963157b3Ee13B3e689e60c425a97FE17777",
+        "name": "Actually Indian",
+        "symbol": "AI",
+        "decimals": 18
       }
     ]
   ],
