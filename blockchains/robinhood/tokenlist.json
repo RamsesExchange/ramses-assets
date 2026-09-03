@@ -2043,6 +2043,12 @@
         "name": "Actually Indian",
         "symbol": "AI",
         "decimals": 18
+      },
+      {
+        "address": "0x5d6EF090a1461B11c9427aC319260122D1C61e18",
+        "name": "iCoin",
+        "symbol": "ICOIN",
+        "decimals": 18
       }
     ]
   ],
