@@ -2109,6 +2109,12 @@
         "name": "Keyboard Cat",
         "symbol": "KEYCAT",
         "decimals": 18
+      },
+      {
+        "address": "0xca3ce24FB1a6E7dB0003f9c785405A851E3F1e18",
+        "name": "KPOP",
+        "symbol": "KPOP",
+        "decimals": 18
       }
     ]
   ],
