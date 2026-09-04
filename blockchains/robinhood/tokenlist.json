@@ -2121,6 +2121,12 @@
         "name": "par",
         "symbol": "par",
         "decimals": 18
+      },
+      {
+        "address": "0xab093dEF657F15dF31b33922A95e047aDd645B29",
+        "name": "MUSHROOM",
+        "symbol": "SHROOM",
+        "decimals": 18
       }
     ]
   ],
