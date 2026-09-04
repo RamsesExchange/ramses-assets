@@ -2091,6 +2091,12 @@
         "name": "A Meme Coin",
         "symbol": "MEME",
         "decimals": 18
+      },
+      {
+        "address": "0x8FcF98e1348D3DDeE46cdD15A5C7D9a8d423077d",
+        "name": "legs.fun",
+        "symbol": "LEGS",
+        "decimals": 18
       }
     ]
   ],
