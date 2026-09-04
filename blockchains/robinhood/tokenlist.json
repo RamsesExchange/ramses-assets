@@ -2103,6 +2103,12 @@
         "name": "CryptoCoin",
         "symbol": "CRC",
         "decimals": 18
+      },
+      {
+        "address": "0x45Ea1EC5613B20BE000EC62a4443575AD530d8D8",
+        "name": "Keyboard Cat",
+        "symbol": "KEYCAT",
+        "decimals": 18
       }
     ]
   ],
