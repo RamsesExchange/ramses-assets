@@ -2097,6 +2097,12 @@
         "name": "legs.fun",
         "symbol": "LEGS",
         "decimals": 18
+      },
+      {
+        "address": "0x446adB118f5F15F2a749E38288D4025b55F3e095",
+        "name": "CryptoCoin",
+        "symbol": "CRC",
+        "decimals": 18
       }
     ]
   ],
