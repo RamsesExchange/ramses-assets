@@ -2151,6 +2151,12 @@
         "name": "Upside Down Gorilla",
         "symbol": "USDG",
         "decimals": 18
+      },
+      {
+        "address": "0xFA89ed9D12Bf74aDD8253ddFAA426c4D8A0fa603",
+        "name": "Shivolink",
+        "symbol": "SLINK",
+        "decimals": 18
       }
     ]
   ],
