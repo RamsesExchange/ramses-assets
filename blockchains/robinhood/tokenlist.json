@@ -2127,6 +2127,12 @@
         "name": "MUSHROOM",
         "symbol": "SHROOM",
         "decimals": 18
+      },
+      {
+        "address": "0x1F20837dAf4F566Ba0db16Ceb25F879fB411ab1c",
+        "name": "Stocker",
+        "symbol": "Stocker",
+        "decimals": 18
       }
     ]
   ],
