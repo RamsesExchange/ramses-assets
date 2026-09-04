@@ -2085,6 +2085,12 @@
         "name": "HARAMBE",
         "symbol": "HARAM",
         "decimals": 18
+      },
+      {
+        "address": "0x385F4f8ae47651ce5F58F5265395a669f8281e18",
+        "name": "A Meme Coin",
+        "symbol": "MEME",
+        "decimals": 18
       }
     ]
   ],
