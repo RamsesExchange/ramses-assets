@@ -2145,6 +2145,12 @@
         "name": "MESH Gateway",
         "symbol": "MESH",
         "decimals": 18
+      },
+      {
+        "address": "0xc20764D8CB3bB4d054C2C42Aa5f59F97F60252d4",
+        "name": "Upside Down Gorilla",
+        "symbol": "USDG",
+        "decimals": 18
       }
     ]
   ],
