@@ -2139,6 +2139,12 @@
         "name": "Clanksen Huang",
         "symbol": "CLANKSEN",
         "decimals": 18
+      },
+      {
+        "address": "0x14641000A501bdc736116aBf84e6fCeA9B90A713",
+        "name": "MESH Gateway",
+        "symbol": "MESH",
+        "decimals": 18
       }
     ]
   ],
