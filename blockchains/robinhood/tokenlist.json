@@ -2115,6 +2115,12 @@
         "name": "KPOP",
         "symbol": "KPOP",
         "decimals": 18
+      },
+      {
+        "address": "0x507B6F349a80114097A67B8b4677367acC15b220",
+        "name": "par",
+        "symbol": "par",
+        "decimals": 18
       }
     ]
   ],
