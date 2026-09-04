@@ -2133,6 +2133,12 @@
         "name": "Stocker",
         "symbol": "Stocker",
         "decimals": 18
+      },
+      {
+        "address": "0x96da4c319a03d6f0F5CB6E86a102d9F91E9278C7",
+        "name": "Clanksen Huang",
+        "symbol": "CLANKSEN",
+        "decimals": 18
       }
     ]
   ],
