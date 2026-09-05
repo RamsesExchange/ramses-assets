@@ -2217,6 +2217,12 @@
         "name": "Pare",
         "symbol": "PARE",
         "decimals": 18
+      },
+      {
+        "address": "0x862cDCCB67C8a22FDb247D09A08B1dAD09447777",
+        "name": "mooncat",
+        "symbol": "moon",
+        "decimals": 18
       }
     ]
   ],
