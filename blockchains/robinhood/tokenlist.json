@@ -2235,6 +2235,12 @@
         "name": "COCAINE",
         "symbol": "COCAINE",
         "decimals": 18
+      },
+      {
+        "address": "0x23dd4CAA26b1522B397274C12cA8cD49628E1E18",
+        "name": "WARCAT",
+        "symbol": "WARCAT",
+        "decimals": 18
       }
     ]
   ],
