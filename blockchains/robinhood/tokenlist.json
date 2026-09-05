@@ -2181,6 +2181,12 @@
         "name": "Just a Circle",
         "symbol": "CRCL",
         "decimals": 18
+      },
+      {
+        "address": "0x2F219C706E052Dc25372A0c59Dcc2afe0CaB12f3",
+        "name": "Market Cap",
+        "symbol": "CAP",
+        "decimals": 18
       }
     ]
   ],
