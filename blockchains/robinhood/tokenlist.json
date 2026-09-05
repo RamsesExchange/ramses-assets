@@ -2175,6 +2175,12 @@
         "name": "Large Legging Model",
         "symbol": "LLM",
         "decimals": 18
+      },
+      {
+        "address": "0x51D1aBaB4d1E7B50642A25D3f7B2823067eBF9d7",
+        "name": "Just a Circle",
+        "symbol": "CRCL",
+        "decimals": 18
       }
     ]
   ],
