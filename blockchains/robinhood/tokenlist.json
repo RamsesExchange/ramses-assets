@@ -2187,6 +2187,12 @@
         "name": "Market Cap",
         "symbol": "CAP",
         "decimals": 18
+      },
+      {
+        "address": "0x157A752F3446fe891d6e2881006813703fbB3aD9",
+        "name": "Fidel Catstro",
+        "symbol": "CATSTRO",
+        "decimals": 18
       }
     ]
   ],
