@@ -2163,6 +2163,12 @@
         "name": "ZZZ",
         "symbol": "ZZZ",
         "decimals": 18
+      },
+      {
+        "address": "0x8490ACd2d52D0Ebd34CB13E01Bd9a9380b36411D",
+        "name": "Vlad The Trencher",
+        "symbol": "VLAD",
+        "decimals": 18
       }
     ]
   ],
