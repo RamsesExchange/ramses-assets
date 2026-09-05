@@ -2241,6 +2241,12 @@
         "name": "WARCAT",
         "symbol": "WARCAT",
         "decimals": 18
+      },
+      {
+        "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+        "name": "Gasoline Inu",
+        "symbol": "GASOLINU",
+        "decimals": 18
       }
     ]
   ],
