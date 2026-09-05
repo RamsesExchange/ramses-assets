@@ -2199,6 +2199,12 @@
         "name": "Ponsancoin",
         "symbol": "Ponsan",
         "decimals": 18
+      },
+      {
+        "address": "0x254cCfd4241F46d91b6B0715D1Fb3bfB8386D833",
+        "name": "basis",
+        "symbol": "BASIS",
+        "decimals": 18
       }
     ]
   ],
