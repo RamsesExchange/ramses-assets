@@ -2157,6 +2157,12 @@
         "name": "Shivolink",
         "symbol": "SLINK",
         "decimals": 18
+      },
+      {
+        "address": "0x7dbf38976f6D3b9c529e7D9484A71898B409eE6a",
+        "name": "ZZZ",
+        "symbol": "ZZZ",
+        "decimals": 18
       }
     ]
   ],
