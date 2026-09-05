@@ -2169,6 +2169,12 @@
         "name": "Vlad The Trencher",
         "symbol": "VLAD",
         "decimals": 18
+      },
+      {
+        "address": "0x427b230500420B86a322D53d7E1170b0d1881e18",
+        "name": "Large Legging Model",
+        "symbol": "LLM",
+        "decimals": 18
       }
     ]
   ],
