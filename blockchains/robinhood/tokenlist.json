@@ -2223,6 +2223,12 @@
         "name": "mooncat",
         "symbol": "moon",
         "decimals": 18
+      },
+      {
+        "address": "0xEB77EF5A73d966198D8591f1213E96ebFBA943b0",
+        "name": "Retarded Online Investment",
+        "symbol": "ROI",
+        "decimals": 18
       }
     ]
   ],
