@@ -2193,6 +2193,12 @@
         "name": "Fidel Catstro",
         "symbol": "CATSTRO",
         "decimals": 18
+      },
+      {
+        "address": "0x97216593D3B2769DA6f0adEee6Fb8e36DA4E319F",
+        "name": "Ponsancoin",
+        "symbol": "Ponsan",
+        "decimals": 18
       }
     ]
   ],
