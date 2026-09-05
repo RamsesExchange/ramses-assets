@@ -2205,6 +2205,12 @@
         "name": "basis",
         "symbol": "BASIS",
         "decimals": 18
+      },
+      {
+        "address": "0x5759A852243A56A48853Af1d28fd4e0f33747C9B",
+        "name": "Robinhood Asteroid",
+        "symbol": "18932",
+        "decimals": 18
       }
     ]
   ],
