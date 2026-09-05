@@ -2229,6 +2229,12 @@
         "name": "Retarded Online Investment",
         "symbol": "ROI",
         "decimals": 18
+      },
+      {
+        "address": "0x67265602261Fc9269B811f5f57C4D6261eEb1e18",
+        "name": "COCAINE",
+        "symbol": "COCAINE",
+        "decimals": 18
       }
     ]
   ],
