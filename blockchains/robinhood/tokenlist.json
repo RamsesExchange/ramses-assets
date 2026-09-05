@@ -2211,6 +2211,12 @@
         "name": "Robinhood Asteroid",
         "symbol": "18932",
         "decimals": 18
+      },
+      {
+        "address": "0x15d36B6A28d8327ABc7aFABF0F106AE2c9Af5C4d",
+        "name": "Pare",
+        "symbol": "PARE",
+        "decimals": 18
       }
     ]
   ],
