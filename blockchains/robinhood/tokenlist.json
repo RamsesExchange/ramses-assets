@@ -2277,6 +2277,12 @@
         "name": "HOOD",
         "symbol": "HOOD",
         "decimals": 18
+      },
+      {
+        "address": "0x01A51df93FC9768470Abd4637D3498Bb83A71b43",
+        "name": "DOHJCOIN",
+        "symbol": "DOHJ",
+        "decimals": 18
       }
     ]
   ],
