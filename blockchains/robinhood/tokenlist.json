@@ -2253,6 +2253,12 @@
         "name": "PEZ",
         "symbol": "PEZ",
         "decimals": 18
+      },
+      {
+        "address": "0x11B70d0243baf75E85CE03201A92b5B7C33BEB59",
+        "name": "Robin the Frog",
+        "symbol": "ROBIN",
+        "decimals": 18
       }
     ]
   ],
