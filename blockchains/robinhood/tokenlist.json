@@ -2265,6 +2265,12 @@
         "name": "STOCK KIT",
         "symbol": "STOCKKIT",
         "decimals": 18
+      },
+      {
+        "address": "0x6b1d42927B1a84eC28Fa88d4fC6FA7AF404966be",
+        "name": "PAIR",
+        "symbol": "PAIR",
+        "decimals": 18
       }
     ]
   ],
