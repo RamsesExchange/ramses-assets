@@ -411,6 +411,12 @@
         "name": "Brila Finance",
         "symbol": "BRLA",
         "decimals": 8
+      },
+      {
+        "address": "0xCC643a9b6cb14e7D5fF9Bd81ABcD5103ECeB0999",
+        "name": "PerpMe",
+        "symbol": "PERPME",
+        "decimals": 18
       }
     ]
   ],
