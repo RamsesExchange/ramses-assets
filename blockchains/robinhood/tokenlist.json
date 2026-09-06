@@ -2259,6 +2259,12 @@
         "name": "Robin the Frog",
         "symbol": "ROBIN",
         "decimals": 18
+      },
+      {
+        "address": "0x7161fC17d1c6D7aa78daFf9B53cc7d303194a56C",
+        "name": "STOCK KIT",
+        "symbol": "STOCKKIT",
+        "decimals": 18
       }
     ]
   ],
