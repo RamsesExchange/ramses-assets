@@ -2271,6 +2271,12 @@
         "name": "PAIR",
         "symbol": "PAIR",
         "decimals": 18
+      },
+      {
+        "address": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
+        "name": "HOOD",
+        "symbol": "HOOD",
+        "decimals": 18
       }
     ]
   ],
