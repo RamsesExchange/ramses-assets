@@ -2247,6 +2247,12 @@
         "name": "Gasoline Inu",
         "symbol": "GASOLINU",
         "decimals": 18
+      },
+      {
+        "address": "0xa3602804E096cb73BD8344AFc1ff3F3390B899C5",
+        "name": "PEZ",
+        "symbol": "PEZ",
+        "decimals": 18
       }
     ]
   ],
