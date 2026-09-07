@@ -2307,6 +2307,12 @@
         "name": "Route",
         "symbol": "ROUTE",
         "decimals": 18
+      },
+      {
+        "address": "0x78b96280C3347E0f58a7147B73eb0EC5fFFf025d",
+        "name": "Robinhood Hat Strategy",
+        "symbol": "RSTR",
+        "decimals": 18
       }
     ]
   ],
