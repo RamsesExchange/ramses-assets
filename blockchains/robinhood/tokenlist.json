@@ -2289,6 +2289,12 @@
         "name": "ZEAL",
         "symbol": "ZEAL",
         "decimals": 18
+      },
+      {
+        "address": "0xF05bCf94C8C020E43de8927B491c6BE8B96777E3",
+        "name": "QUOTRON STRATEGY",
+        "symbol": "QSTRAT",
+        "decimals": 18
       }
     ]
   ],
