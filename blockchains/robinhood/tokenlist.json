@@ -2283,6 +2283,12 @@
         "name": "DOHJCOIN",
         "symbol": "DOHJ",
         "decimals": 18
+      },
+      {
+        "address": "0x9fA1C5E90A11294F83A9F135b81ad1b537A5FFdC",
+        "name": "ZEAL",
+        "symbol": "ZEAL",
+        "decimals": 18
       }
     ]
   ],
