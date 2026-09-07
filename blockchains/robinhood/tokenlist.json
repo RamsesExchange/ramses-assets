@@ -2301,6 +2301,12 @@
         "name": "Hunter.exe",
         "symbol": "HUNTER",
         "decimals": 18
+      },
+      {
+        "address": "0x4A72B9702f991b790788f8AFA9e7112541f4E8f8",
+        "name": "Route",
+        "symbol": "ROUTE",
+        "decimals": 18
       }
     ]
   ],
