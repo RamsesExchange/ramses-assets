@@ -2295,6 +2295,12 @@
         "name": "QUOTRON STRATEGY",
         "symbol": "QSTRAT",
         "decimals": 18
+      },
+      {
+        "address": "0x09eE7780c0287d29eeFED621318A7fFf8d26F4F1",
+        "name": "Hunter.exe",
+        "symbol": "HUNTER",
+        "decimals": 18
       }
     ]
   ],
