@@ -2331,6 +2331,12 @@
         "name": "LAPTOP",
         "symbol": "LAPTOP",
         "decimals": 18
+      },
+      {
+        "address": "0xe2324FF2a59F8eCBa8c321c6466e59121C00e795",
+        "name": "Commodity Market Exchange",
+        "symbol": "CME",
+        "decimals": 18
       }
     ]
   ],
