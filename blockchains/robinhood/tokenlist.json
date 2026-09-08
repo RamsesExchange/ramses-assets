@@ -2349,6 +2349,12 @@
         "name": "JT MARLIN",
         "symbol": "MARLIN",
         "decimals": 18
+      },
+      {
+        "address": "0xa82927d19108cacE3161c1a229DEafbFc96cf842",
+        "name": "Subnet 6900",
+        "symbol": "SN6900",
+        "decimals": 18
       }
     ]
   ],
