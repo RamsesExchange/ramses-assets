@@ -2313,6 +2313,12 @@
         "name": "Robinhood Hat Strategy",
         "symbol": "RSTR",
         "decimals": 18
+      },
+      {
+        "address": "0xBc9cc4b93A08B2dfBA87067a9C53E713DB3314Ce",
+        "name": "Pink Sheets",
+        "symbol": "PINK",
+        "decimals": 18
       }
     ]
   ],
