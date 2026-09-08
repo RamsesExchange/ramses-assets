@@ -2337,6 +2337,12 @@
         "name": "Commodity Market Exchange",
         "symbol": "CME",
         "decimals": 18
+      },
+      {
+        "address": "0xBEE455B5cd3A84b03871c779B018E7959be15bab",
+        "name": "Fortune 500",
+        "symbol": "500",
+        "decimals": 18
       }
     ]
   ],
