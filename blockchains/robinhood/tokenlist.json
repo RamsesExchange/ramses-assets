@@ -2325,6 +2325,12 @@
         "name": "The Wolf of Wall Street",
         "symbol": "WOLF",
         "decimals": 18
+      },
+      {
+        "address": "0x76Ed1E2A8Fc3873FcB5c514688Ca2Fe8A3600b7F",
+        "name": "LAPTOP",
+        "symbol": "LAPTOP",
+        "decimals": 18
       }
     ]
   ],
