@@ -2319,6 +2319,12 @@
         "name": "Pink Sheets",
         "symbol": "PINK",
         "decimals": 18
+      },
+      {
+        "address": "0x215407c134F68b9da4dE10c22c948196053a0d5D",
+        "name": "The Wolf of Wall Street",
+        "symbol": "WOLF",
+        "decimals": 18
       }
     ]
   ],
