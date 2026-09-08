@@ -2343,6 +2343,12 @@
         "name": "Fortune 500",
         "symbol": "500",
         "decimals": 18
+      },
+      {
+        "address": "0xaB35D04E1Ee39c789c4A65D522417b3C7F2E4723",
+        "name": "JT MARLIN",
+        "symbol": "MARLIN",
+        "decimals": 18
       }
     ]
   ],
