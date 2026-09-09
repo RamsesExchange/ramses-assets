@@ -2367,6 +2367,12 @@
         "name": "Crumbs",
         "symbol": "CRUMBS",
         "decimals": 18
+      },
+      {
+        "address": "0xdEe52F2ab639b6942B0d0F0565400b93b7a0fbe5",
+        "name": "Harmonic Agent",
+        "symbol": "HARMONIC",
+        "decimals": 18
       }
     ]
   ],
