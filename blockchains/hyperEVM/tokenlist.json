@@ -417,6 +417,12 @@
         "name": "PerpMe",
         "symbol": "PERPME",
         "decimals": 18
+      },
+      {
+        "address": "0xE7E553Cd128F0011777323A0b44a7b96EA1CB540",
+        "name": "Wrapped SP500 xStock",
+        "symbol": "wSPYx",
+        "decimals": 18
       }
     ]
   ],
