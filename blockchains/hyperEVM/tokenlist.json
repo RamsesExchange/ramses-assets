@@ -423,6 +423,12 @@
         "name": "Wrapped SP500 xStock",
         "symbol": "wSPYx",
         "decimals": 18
+      },
+      {
+        "address": "0x4C1AE29c159838fC1b224636E28E086EB69101f7",
+        "name": "Wrapped Nasdaq xStock",
+        "symbol": "wQQQx",
+        "decimals": 18
       }
     ]
   ],
