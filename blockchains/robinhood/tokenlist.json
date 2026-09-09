@@ -2373,6 +2373,12 @@
         "name": "Harmonic Agent",
         "symbol": "HARMONIC",
         "decimals": 18
+      },
+      {
+        "address": "0xebB4C5B97E4117e30EC82ce025E6f21dded05436",
+        "name": "DarkRoute",
+        "symbol": "DARK",
+        "decimals": 18
       }
     ]
   ],
