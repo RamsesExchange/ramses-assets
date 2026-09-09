@@ -2355,6 +2355,12 @@
         "name": "Subnet 6900",
         "symbol": "SN6900",
         "decimals": 18
+      },
+      {
+        "address": "0xe99d4365A5dA0F7A3919Fc1Fe37EcE79BdB16eDa",
+        "name": "DSS, Inc. Token",
+        "symbol": "DSSx",
+        "decimals": 18
       }
     ]
   ],
