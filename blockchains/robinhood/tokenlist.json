@@ -2361,6 +2361,12 @@
         "name": "DSS, Inc. Token",
         "symbol": "DSSx",
         "decimals": 18
+      },
+      {
+        "address": "0x80bAa4b3bfAC6f4978700dF824B1B3d98e889136",
+        "name": "Crumbs",
+        "symbol": "CRUMBS",
+        "decimals": 18
       }
     ]
   ],
