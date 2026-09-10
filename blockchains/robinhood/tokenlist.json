@@ -2379,6 +2379,12 @@
         "name": "DarkRoute",
         "symbol": "DARK",
         "decimals": 18
+      },
+      {
+        "address": "0x7a492b0A2d630b94791Af846C1842Db9e623420c",
+        "name": "SuerMarioBrosCoin",
+        "symbol": "MARIO",
+        "decimals": 18
       }
     ]
   ],
