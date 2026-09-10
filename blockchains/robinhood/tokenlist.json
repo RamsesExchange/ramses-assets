@@ -2385,6 +2385,12 @@
         "name": "SuerMarioBrosCoin",
         "symbol": "MARIO",
         "decimals": 18
+      },
+      {
+        "address": "0xEfAb538Cf3C29237A47c6aFB145D50Ddf204A0A3",
+        "name": "United Founders Group",
+        "symbol": "UFG",
+        "decimals": 18
       }
     ]
   ],
