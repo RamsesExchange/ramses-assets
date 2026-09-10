@@ -2391,6 +2391,12 @@
         "name": "United Founders Group",
         "symbol": "UFG",
         "decimals": 18
+      },
+      {
+        "address": "0x85Ef2Ee4cA09D19b03A7C5647c9776Bf4F6785A4",
+        "name": "STONKFLY",
+        "symbol": "STONKFLY",
+        "decimals": 18
       }
     ]
   ],
