@@ -429,6 +429,12 @@
         "name": "Wrapped Nasdaq xStock",
         "symbol": "wQQQx",
         "decimals": 18
+      },
+      {
+        "address": "0xf09703969CF55aa8A05ee9c76aB3013477283666",
+        "name": "Signal",
+        "symbol": "SIGNAL",
+        "decimals": 18
       }
     ]
   ],
