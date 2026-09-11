@@ -2403,6 +2403,12 @@
         "name": "flybrain",
         "symbol": "FLYBRAIN",
         "decimals": 18
+      },
+      {
+        "address": "0x1dD500201fFAbc04089Aa1313b0a6Aba668ca178",
+        "name": "AuraSaylorFortniteYoda67Inu",
+        "symbol": "BITCOIN",
+        "decimals": 18
       }
     ]
   ],
