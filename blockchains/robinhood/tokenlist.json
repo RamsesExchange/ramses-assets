@@ -2397,6 +2397,12 @@
         "name": "STONKFLY",
         "symbol": "STONKFLY",
         "decimals": 18
+      },
+      {
+        "address": "0x4Eb990547BCe4a982432CA88Cf5fae7EED1A2d35",
+        "name": "flybrain",
+        "symbol": "FLYBRAIN",
+        "decimals": 18
       }
     ]
   ],
