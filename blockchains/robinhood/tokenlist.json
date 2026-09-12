@@ -2445,6 +2445,12 @@
         "name": "Anthropig",
         "symbol": "ANTHROPIG",
         "decimals": 18
+      },
+      {
+        "address": "0xe27501d787d647CC82a5B4a7Eafd5750386F1B77",
+        "name": "TWINE",
+        "symbol": "TWINE",
+        "decimals": 18
       }
     ]
   ],
