@@ -2427,6 +2427,12 @@
         "name": "OPENAI 1x Long",
         "symbol": "OPENAIx1L",
         "decimals": 18
+      },
+      {
+        "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+        "name": "ANTHROPIC 1x Long",
+        "symbol": "ANTHROPICx1L",
+        "decimals": 18
       }
     ]
   ],
