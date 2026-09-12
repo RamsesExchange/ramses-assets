@@ -2433,6 +2433,12 @@
         "name": "ANTHROPIC 1x Long",
         "symbol": "ANTHROPICx1L",
         "decimals": 18
+      },
+      {
+        "address": "0xF51fb54DE60f6e16252E852A5Ed0E60B8307606A",
+        "name": "NVDA 3x Long",
+        "symbol": "NVDAx3L",
+        "decimals": 18
       }
     ]
   ],
