@@ -2421,6 +2421,12 @@
         "name": "SAYLORMOON",
         "symbol": "SAYLORMOON",
         "decimals": 18
+      },
+      {
+        "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+        "name": "OPENAI 1x Long",
+        "symbol": "OPENAIx1L",
+        "decimals": 18
       }
     ]
   ],
