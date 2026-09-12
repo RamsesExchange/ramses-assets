@@ -2409,6 +2409,12 @@
         "name": "AuraSaylorFortniteYoda67Inu",
         "symbol": "BITCOIN",
         "decimals": 18
+      },
+      {
+        "address": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+        "name": "CATGPT",
+        "symbol": "CATGPT",
+        "decimals": 18
       }
     ]
   ],
