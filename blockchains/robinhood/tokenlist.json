@@ -2415,6 +2415,12 @@
         "name": "CATGPT",
         "symbol": "CATGPT",
         "decimals": 18
+      },
+      {
+        "address": "0xD18528b39dA6464B3662c331a52181ecB15b1E18",
+        "name": "SAYLORMOON",
+        "symbol": "SAYLORMOON",
+        "decimals": 18
       }
     ]
   ],
