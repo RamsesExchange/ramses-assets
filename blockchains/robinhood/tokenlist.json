@@ -2457,6 +2457,12 @@
         "name": "BLAST",
         "symbol": "BLAST",
         "decimals": 18
+      },
+      {
+        "address": "0xD9d674b04A72AFfe00E06385535Eaac10B988fCa",
+        "name": "Project Mars",
+        "symbol": "DRILL",
+        "decimals": 18
       }
     ]
   ],
