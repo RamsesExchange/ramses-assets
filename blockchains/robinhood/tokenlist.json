@@ -2463,6 +2463,12 @@
         "name": "Project Mars",
         "symbol": "DRILL",
         "decimals": 18
+      },
+      {
+        "address": "0x73c2dE14C7FA0a57cc2d9722b959eA70B881fFe4",
+        "name": "Boomer",
+        "symbol": "BOOMER",
+        "decimals": 18
       }
     ]
   ],
