@@ -2451,6 +2451,12 @@
         "name": "TWINE",
         "symbol": "TWINE",
         "decimals": 18
+      },
+      {
+        "address": "0x724a163f0081fA1771590Dda9b55eDDe2c5B823a",
+        "name": "BLAST",
+        "symbol": "BLAST",
+        "decimals": 18
       }
     ]
   ],
