@@ -2517,6 +2517,12 @@
         "name": "INU",
         "symbol": "I",
         "decimals": 18
+      },
+      {
+        "address": "0xC2703284E399a9778DcE9734e69dD6aB0dC71E18",
+        "name": "Cyber Inu",
+        "symbol": "CYBERINU",
+        "decimals": 18
       }
     ]
   ],
