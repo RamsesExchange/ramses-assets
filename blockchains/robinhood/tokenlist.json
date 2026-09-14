@@ -2499,6 +2499,12 @@
         "name": "Ticker Spring",
         "symbol": "SPRING",
         "decimals": 18
+      },
+      {
+        "address": "0xCE4C9418B8E9bCad3E4BA2bD84123A49A6911e18",
+        "name": "Recursive Self Inu",
+        "symbol": "RSI",
+        "decimals": 18
       }
     ]
   ],
