@@ -2487,6 +2487,12 @@
         "name": "\u5bcc\u8d35",
         "symbol": "\u5bcc\u8d35",
         "decimals": 18
+      },
+      {
+        "address": "0x4B7d1E5ec6889e63e70D39561edf925095dbed88",
+        "name": "RHTools",
+        "symbol": "TOOLS",
+        "decimals": 18
       }
     ]
   ],
