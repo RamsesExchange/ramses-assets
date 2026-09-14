@@ -2493,6 +2493,12 @@
         "name": "RHTools",
         "symbol": "TOOLS",
         "decimals": 18
+      },
+      {
+        "address": "0x440e339a46eaa3bE8d723c2cBED2A30af74536D5",
+        "name": "Ticker Spring",
+        "symbol": "SPRING",
+        "decimals": 18
       }
     ]
   ],
