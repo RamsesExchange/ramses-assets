@@ -2481,6 +2481,12 @@
         "name": "X Link",
         "symbol": "XL",
         "decimals": 18
+      },
+      {
+        "address": "0xcEEBF25B318201f1F949be2FabBFcEe231737139",
+        "name": "\u5bcc\u8d35",
+        "symbol": "\u5bcc\u8d35",
+        "decimals": 18
       }
     ]
   ],
