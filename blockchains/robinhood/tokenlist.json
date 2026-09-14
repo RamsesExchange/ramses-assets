@@ -2529,6 +2529,12 @@
         "name": "Wrestler",
         "symbol": "WRESTLER",
         "decimals": 18
+      },
+      {
+        "address": "0x2C4Fc4acb2E00Be0Fe5b6aCBBDCC1dda4eA61E18",
+        "name": "FORD",
+        "symbol": "HARRISON",
+        "decimals": 18
       }
     ]
   ],
