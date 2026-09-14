@@ -2475,6 +2475,12 @@
         "name": "Defensive Accelerationism",
         "symbol": "d/acc",
         "decimals": 18
+      },
+      {
+        "address": "0x1cDb289BeFDFaC8aF945a288BCdcCc382cB34d32",
+        "name": "X Link",
+        "symbol": "XL",
+        "decimals": 18
       }
     ]
   ],
