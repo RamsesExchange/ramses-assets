@@ -2541,6 +2541,12 @@
         "name": "Perpetuals",
         "symbol": "PERPS",
         "decimals": 18
+      },
+      {
+        "address": "0xf5567678396022ff36D717Db7Aa35948f8F01E18",
+        "name": "Space Puppy",
+        "symbol": "JUDE",
+        "decimals": 18
       }
     ]
   ],
