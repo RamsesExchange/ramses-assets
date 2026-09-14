@@ -2523,6 +2523,12 @@
         "name": "Cyber Inu",
         "symbol": "CYBERINU",
         "decimals": 18
+      },
+      {
+        "address": "0xaB528169DCC80d68837a33b1e2b866bB7D7EE301",
+        "name": "Wrestler",
+        "symbol": "WRESTLER",
+        "decimals": 18
       }
     ]
   ],
