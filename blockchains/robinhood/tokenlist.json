@@ -2469,6 +2469,12 @@
         "name": "Boomer",
         "symbol": "BOOMER",
         "decimals": 18
+      },
+      {
+        "address": "0x298bCf72f7040d02c6F8D4095bd500690a391c9e",
+        "name": "Defensive Accelerationism",
+        "symbol": "d/acc",
+        "decimals": 18
       }
     ]
   ],
