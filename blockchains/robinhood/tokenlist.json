@@ -2535,6 +2535,12 @@
         "name": "FORD",
         "symbol": "HARRISON",
         "decimals": 18
+      },
+      {
+        "address": "0x828c38B9ac8e0933EAd14A6c0318d4494e127777",
+        "name": "Perpetuals",
+        "symbol": "PERPS",
+        "decimals": 18
       }
     ]
   ],
