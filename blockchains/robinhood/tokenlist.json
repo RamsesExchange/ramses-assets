@@ -2505,6 +2505,12 @@
         "name": "Recursive Self Inu",
         "symbol": "RSI",
         "decimals": 18
+      },
+      {
+        "address": "0xCcaF2ea73f204d7DC2F2C723579D9Ff7cCE61e18",
+        "name": "Shiba",
+        "symbol": "SHI",
+        "decimals": 18
       }
     ]
   ],
