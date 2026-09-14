@@ -2511,6 +2511,12 @@
         "name": "Shiba",
         "symbol": "SHI",
         "decimals": 18
+      },
+      {
+        "address": "0xC05BA3437c12bC5462C89c3D1AC847Af90A11e18",
+        "name": "INU",
+        "symbol": "I",
+        "decimals": 18
       }
     ]
   ],
