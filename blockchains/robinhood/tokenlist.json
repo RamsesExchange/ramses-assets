@@ -2547,6 +2547,12 @@
         "name": "Space Puppy",
         "symbol": "JUDE",
         "decimals": 18
+      },
+      {
+        "address": "0x83888AE0Aafb66956868ebb13Ab10fCc0Dd94857",
+        "name": "Space Puppy",
+        "symbol": "JUDE",
+        "decimals": 18
       }
     ]
   ],
