@@ -2553,6 +2553,12 @@
         "name": "Space Puppy",
         "symbol": "JUDE",
         "decimals": 18
+      },
+      {
+        "address": "0x63Ee32Ac3077d1fbd8a77eBBA2a6ed4b8e9c1e18",
+        "name": "iNu",
+        "symbol": "INU",
+        "decimals": 18
       }
     ]
   ],
