@@ -2571,6 +2571,12 @@
         "name": "Waifu",
         "symbol": "WAIFU",
         "decimals": 18
+      },
+      {
+        "address": "0xd1E92BA7c7355c2698addD894919Cba198601E18",
+        "name": "Qubit",
+        "symbol": "QUBIT",
+        "decimals": 18
       }
     ]
   ],
