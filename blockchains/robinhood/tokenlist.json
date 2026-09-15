@@ -2577,6 +2577,12 @@
         "name": "Qubit",
         "symbol": "QUBIT",
         "decimals": 18
+      },
+      {
+        "address": "0x88ad8DdF1E3898412146a534538d418c6F8A9062",
+        "name": "STANDARD",
+        "symbol": "STANDARD",
+        "decimals": 18
       }
     ]
   ],
