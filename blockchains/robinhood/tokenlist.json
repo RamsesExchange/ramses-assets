@@ -2565,6 +2565,12 @@
         "name": "OnRecord",
         "symbol": "RECORD",
         "decimals": 18
+      },
+      {
+        "address": "0x948647a06a6422DceEA3711297F82AeF68Ec641C",
+        "name": "Waifu",
+        "symbol": "WAIFU",
+        "decimals": 18
       }
     ]
   ],
