@@ -2559,6 +2559,12 @@
         "name": "iNu",
         "symbol": "INU",
         "decimals": 18
+      },
+      {
+        "address": "0xA78735baDAAd80Fca7AC7C03bdd029160d45Ce68",
+        "name": "OnRecord",
+        "symbol": "RECORD",
+        "decimals": 18
       }
     ]
   ],
