@@ -2583,6 +2583,12 @@
         "name": "STANDARD",
         "symbol": "STANDARD",
         "decimals": 18
+      },
+      {
+        "address": "0xF5051f07B69ef5874fb50D3f57dFb880451Fc844",
+        "name": "GOLDENARROW",
+        "symbol": "GOLDENARROW",
+        "decimals": 18
       }
     ]
   ],
