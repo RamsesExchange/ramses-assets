@@ -2589,6 +2589,12 @@
         "name": "GOLDENARROW",
         "symbol": "GOLDENARROW",
         "decimals": 18
+      },
+      {
+        "address": "0x8bC3CEF1a8b35c420e933602CD4F650ebB0760bc",
+        "name": "Robinscan",
+        "symbol": "SCAN",
+        "decimals": 18
       }
     ]
   ],
