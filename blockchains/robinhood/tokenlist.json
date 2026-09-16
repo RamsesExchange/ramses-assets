@@ -2595,6 +2595,12 @@
         "name": "Robinscan",
         "symbol": "SCAN",
         "decimals": 18
+      },
+      {
+        "address": "0x7BA36BE14dD06ba492f08be6C1B2979c1d0B652C",
+        "name": "PerpsHood",
+        "symbol": "PERPSHOOD",
+        "decimals": 18
       }
     ]
   ],
