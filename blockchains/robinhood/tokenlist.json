@@ -2601,6 +2601,12 @@
         "name": "PerpsHood",
         "symbol": "PERPSHOOD",
         "decimals": 18
+      },
+      {
+        "address": "0x91A2DAe9699f0B82540B5886b0d8759C22820bA3",
+        "name": "musebook",
+        "symbol": "musebook",
+        "decimals": 18
       }
     ]
   ],
