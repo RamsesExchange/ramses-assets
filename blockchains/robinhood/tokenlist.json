@@ -2613,6 +2613,12 @@
         "name": "scopl.live",
         "symbol": "SCOPL",
         "decimals": 18
+      },
+      {
+        "address": "0x3bA500F1AbabbCF0F0247D06D1c56Fd7E6C4c09D",
+        "name": "Agent Wormhole",
+        "symbol": "WORM",
+        "decimals": 18
       }
     ]
   ],
