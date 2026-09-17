@@ -2607,6 +2607,12 @@
         "name": "musebook",
         "symbol": "musebook",
         "decimals": 18
+      },
+      {
+        "address": "0xaA40e79E987517f7462bF79315B8A118799B04E3",
+        "name": "scopl.live",
+        "symbol": "SCOPL",
+        "decimals": 18
       }
     ]
   ],
