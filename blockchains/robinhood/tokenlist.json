@@ -2637,6 +2637,12 @@
         "name": "Cestus Network",
         "symbol": "CEST",
         "decimals": 18
+      },
+      {
+        "address": "0x1C1a7E9142dD3EAA76B1047045b6E0e95848e814",
+        "name": "wagie wojaks",
+        "symbol": "wagie",
+        "decimals": 18
       }
     ]
   ],
