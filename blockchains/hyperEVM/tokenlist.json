@@ -435,6 +435,12 @@
         "name": "Signal",
         "symbol": "SIGNAL",
         "decimals": 18
+      },
+      {
+        "address": "0x43cdd2cCbeB38Eb62fDf54e17aFBabf450ebBB01",
+        "name": "Zama",
+        "symbol": "ZAMA",
+        "decimals": 18
       }
     ]
   ],
