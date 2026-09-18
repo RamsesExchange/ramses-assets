@@ -2631,6 +2631,12 @@
         "name": "PETIX",
         "symbol": "PETIX",
         "decimals": 18
+      },
+      {
+        "address": "0x1258Af9d5E3f2A31E585711966Ac295B64ddF6A5",
+        "name": "Cestus Network",
+        "symbol": "CEST",
+        "decimals": 18
       }
     ]
   ],
