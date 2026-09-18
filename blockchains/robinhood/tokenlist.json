@@ -2643,6 +2643,12 @@
         "name": "wagie wojaks",
         "symbol": "wagie",
         "decimals": 18
+      },
+      {
+        "address": "0x0830A9Dd26a04e959657AB6788d45f5725590c32",
+        "name": "DEGEN",
+        "symbol": "DEGEN",
+        "decimals": 18
       }
     ]
   ],
