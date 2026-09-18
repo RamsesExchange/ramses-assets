@@ -2649,6 +2649,12 @@
         "name": "DEGEN",
         "symbol": "DEGEN",
         "decimals": 18
+      },
+      {
+        "address": "0x72Be5b4Db195eeee68028849461326842b6E1E18",
+        "name": "Bless Be Dei",
+        "symbol": "BLESS",
+        "decimals": 18
       }
     ]
   ],
