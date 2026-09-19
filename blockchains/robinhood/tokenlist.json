@@ -2655,6 +2655,12 @@
         "name": "Bless Be Dei",
         "symbol": "BLESS",
         "decimals": 18
+      },
+      {
+        "address": "0x685DFd386968B58D895F934485820C479C79a8bB",
+        "name": "Wrapped FGI Industries Ltd. ST0x",
+        "symbol": "wtFGI",
+        "decimals": 18
       }
     ]
   ],
