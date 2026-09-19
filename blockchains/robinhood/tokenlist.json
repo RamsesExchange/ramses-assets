@@ -2661,6 +2661,12 @@
         "name": "Wrapped FGI Industries Ltd. ST0x",
         "symbol": "wtFGI",
         "decimals": 18
+      },
+      {
+        "address": "0x22Eb9f1C5385eD74257Da42d8021916C2d837135",
+        "name": "Shitcoin",
+        "symbol": "SHIT",
+        "decimals": 18
       }
     ]
   ],
