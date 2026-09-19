@@ -2667,6 +2667,12 @@
         "name": "Shitcoin",
         "symbol": "SHIT",
         "decimals": 18
+      },
+      {
+        "address": "0xa92768863a55d8A0591709f7f5E594A249d36Ea3",
+        "name": "heyaskr",
+        "symbol": "ASKR",
+        "decimals": 18
       }
     ]
   ],
