@@ -2679,6 +2679,12 @@
         "name": "supercycle (real)",
         "symbol": "SUPER",
         "decimals": 18
+      },
+      {
+        "address": "0xb911F04A24A9f6234537829290335e623ee71E18",
+        "name": "Uranus",
+        "symbol": "URANUS",
+        "decimals": 18
       }
     ]
   ],
