@@ -2685,6 +2685,12 @@
         "name": "Uranus",
         "symbol": "URANUS",
         "decimals": 18
+      },
+      {
+        "address": "0x76Cf788606F3d968B93B8A243D0e185C974EE407",
+        "name": "Origami hOHM",
+        "symbol": "hOHM",
+        "decimals": 18
       }
     ]
   ],
