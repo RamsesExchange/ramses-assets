@@ -2703,6 +2703,12 @@
         "name": "fomoegg",
         "symbol": "FOMOEGG",
         "decimals": 18
+      },
+      {
+        "address": "0x204652A8a7A14ff7Ab5c3329462e5DAE9CaFF60B",
+        "name": "NetStrat",
+        "symbol": "NSTRAT",
+        "decimals": 18
       }
     ]
   ],
