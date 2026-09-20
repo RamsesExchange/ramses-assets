@@ -2697,6 +2697,12 @@
         "name": "Superior Inu",
         "symbol": "SI",
         "decimals": 18
+      },
+      {
+        "address": "0xeE9A89faDf3894FEd75BF312F9252f770e287F5a",
+        "name": "fomoegg",
+        "symbol": "FOMOEGG",
+        "decimals": 18
       }
     ]
   ],
