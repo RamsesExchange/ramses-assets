@@ -2691,6 +2691,12 @@
         "name": "Origami hOHM",
         "symbol": "hOHM",
         "decimals": 18
+      },
+      {
+        "address": "0xEF82DDc566653699B89C3aFe123559a75aAA2976",
+        "name": "Superior Inu",
+        "symbol": "SI",
+        "decimals": 18
       }
     ]
   ],
