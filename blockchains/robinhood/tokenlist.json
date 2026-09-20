@@ -2709,6 +2709,12 @@
         "name": "NetStrat",
         "symbol": "NSTRAT",
         "decimals": 18
+      },
+      {
+        "address": "0xaCE55FE98Bab14366dD49aB5AA5dF76aA11A3c6f",
+        "name": "Wojak",
+        "symbol": "WOJAK",
+        "decimals": 18
       }
     ]
   ],
