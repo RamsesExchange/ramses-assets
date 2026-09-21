@@ -441,6 +441,12 @@
         "name": "Zama",
         "symbol": "ZAMA",
         "decimals": 18
+      },
+      {
+        "address": "0x7014C833EDaa4bCdF8d57B4FDC0F5e4146d1ff5C",
+        "name": "Ramses Cat",
+        "symbol": "RAMCAT",
+        "decimals": 18
       }
     ]
   ],
