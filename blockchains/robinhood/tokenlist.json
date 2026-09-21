@@ -2715,6 +2715,12 @@
         "name": "Wojak",
         "symbol": "WOJAK",
         "decimals": 18
+      },
+      {
+        "address": "0xdEc8eaDbe856D73B32f9117C2cDdC757233656aA",
+        "name": "Token Machine",
+        "symbol": "MACHINE",
+        "decimals": 18
       }
     ]
   ],
