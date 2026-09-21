@@ -2721,6 +2721,12 @@
         "name": "Token Machine",
         "symbol": "MACHINE",
         "decimals": 18
+      },
+      {
+        "address": "0xF014a3782E6979bd965376f6638D90914820eBFF",
+        "name": "+",
+        "symbol": "+",
+        "decimals": 18
       }
     ]
   ],
