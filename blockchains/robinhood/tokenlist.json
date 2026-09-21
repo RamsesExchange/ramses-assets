@@ -2727,6 +2727,12 @@
         "name": "+",
         "symbol": "+",
         "decimals": 18
+      },
+      {
+        "address": "0xD25eFCEB9D690E2A75a8b75E52A7C63cb9A214e0",
+        "name": "NOESIS Network",
+        "symbol": "NOESIS",
+        "decimals": 18
       }
     ]
   ],
