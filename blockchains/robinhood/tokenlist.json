@@ -2733,6 +2733,12 @@
         "name": "NOESIS Network",
         "symbol": "NOESIS",
         "decimals": 18
+      },
+      {
+        "address": "0x5E55f18453545d0D4314C5106a2D8Db934298E95",
+        "name": "Deed Estate",
+        "symbol": "DEED",
+        "decimals": 18
       }
     ]
   ],
