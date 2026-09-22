@@ -2751,6 +2751,12 @@
         "name": "Froge",
         "symbol": "FROGE",
         "decimals": 18
+      },
+      {
+        "address": "0x4B7720cb7025eceBE616fc6c93185Ae4414c1E18",
+        "name": "dog in vest",
+        "symbol": "INVEST",
+        "decimals": 18
       }
     ]
   ],
