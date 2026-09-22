@@ -2745,6 +2745,12 @@
         "name": "Cat Processing Unit",
         "symbol": "CPU",
         "decimals": 18
+      },
+      {
+        "address": "0x1249A3544FbdB3A81763550d3191DC3724F1D3eC",
+        "name": "Froge",
+        "symbol": "FROGE",
+        "decimals": 18
       }
     ]
   ],
