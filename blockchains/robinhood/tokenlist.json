@@ -2775,6 +2775,12 @@
         "name": "Hoodliens",
         "symbol": "HDLN",
         "decimals": 18
+      },
+      {
+        "address": "0x20024E485c0B22b42855589700721b28320A7777",
+        "name": "Prism Assets",
+        "symbol": "PRISM",
+        "decimals": 18
       }
     ]
   ],
