@@ -2739,6 +2739,12 @@
         "name": "Deed Estate",
         "symbol": "DEED",
         "decimals": 18
+      },
+      {
+        "address": "0x8eaa17Be69AE9616cEDe4671e6d837bb89491E18",
+        "name": "Cat Processing Unit",
+        "symbol": "CPU",
+        "decimals": 18
       }
     ]
   ],
