@@ -2763,6 +2763,12 @@
         "name": "museic",
         "symbol": "museic",
         "decimals": 18
+      },
+      {
+        "address": "0x83a49B808F8d5e02CB2931cd2352988f498e5Ba3",
+        "name": "Agrippa",
+        "symbol": "Agrippa",
+        "decimals": 18
       }
     ]
   ],
