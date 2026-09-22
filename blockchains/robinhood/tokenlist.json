@@ -2769,6 +2769,12 @@
         "name": "Agrippa",
         "symbol": "Agrippa",
         "decimals": 18
+      },
+      {
+        "address": "0xFd149B52C4265E6FE9c6d5AE7a39cCc627703875",
+        "name": "Hoodliens",
+        "symbol": "HDLN",
+        "decimals": 18
       }
     ]
   ],
