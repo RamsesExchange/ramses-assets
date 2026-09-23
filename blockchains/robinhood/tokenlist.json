@@ -2781,6 +2781,12 @@
         "name": "Prism Assets",
         "symbol": "PRISM",
         "decimals": 18
+      },
+      {
+        "address": "0x1a911bb954dAA9CB38513423075bE74450351e18",
+        "name": "The Situation",
+        "symbol": "MONITOR",
+        "decimals": 18
       }
     ]
   ],
