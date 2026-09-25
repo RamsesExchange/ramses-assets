@@ -2787,6 +2787,12 @@
         "name": "The Situation",
         "symbol": "MONITOR",
         "decimals": 18
+      },
+      {
+        "address": "0x63C12667638f2Ae6fC6ae09B43D98Ec84a8586eA",
+        "name": "Wrapped Staked NET",
+        "symbol": "wsNET",
+        "decimals": 18
       }
     ]
   ],
