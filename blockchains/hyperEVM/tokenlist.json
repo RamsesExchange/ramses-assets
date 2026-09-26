@@ -447,6 +447,12 @@
         "name": "Ramses Cat",
         "symbol": "RAMCAT",
         "decimals": 18
+      },
+      {
+        "address": "0xC80D9EB120d6E40E31d5AE9040D5FC0753C52DA7",
+        "name": "NEAR Protocol",
+        "symbol": "ONEAR",
+        "decimals": 18
       }
     ]
   ],
