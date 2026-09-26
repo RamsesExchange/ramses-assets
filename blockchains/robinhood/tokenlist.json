@@ -2793,6 +2793,12 @@
         "name": "Wrapped Staked NET",
         "symbol": "wsNET",
         "decimals": 18
+      },
+      {
+        "address": "0x6249519883B8d7ccf915dfcd6c0442984dAE9d24",
+        "name": "Cashed Money",
+        "symbol": "CASHED",
+        "decimals": 18
       }
     ]
   ],
