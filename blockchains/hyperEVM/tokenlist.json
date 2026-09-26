@@ -453,6 +453,12 @@
         "name": "NEAR Protocol",
         "symbol": "ONEAR",
         "decimals": 18
+      },
+      {
+        "address": "0xd5EE1c81fE161e985dce6b90713c965f9979cf80",
+        "name": "TREAD",
+        "symbol": "TREAD",
+        "decimals": 18
       }
     ]
   ],
