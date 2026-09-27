@@ -2799,6 +2799,12 @@
         "name": "Cashed Money",
         "symbol": "CASHED",
         "decimals": 18
+      },
+      {
+        "address": "0x1f94F701f22eF86c8eb91CE65A4A0a8dd9C7a287",
+        "name": "Pewswap",
+        "symbol": "PEW",
+        "decimals": 18
       }
     ]
   ],
