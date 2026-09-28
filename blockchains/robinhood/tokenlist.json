@@ -2805,6 +2805,12 @@
         "name": "Pewswap",
         "symbol": "PEW",
         "decimals": 18
+      },
+      {
+        "address": "0xa32CDb8e84c68Eb995c8dC270B528d7C5D6A0F20",
+        "name": "BlackPool",
+        "symbol": "BPOOL",
+        "decimals": 18
       }
     ]
   ],
