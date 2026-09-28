@@ -2811,6 +2811,12 @@
         "name": "BlackPool",
         "symbol": "BPOOL",
         "decimals": 18
+      },
+      {
+        "address": "0x0338A1B7fA2Ae1Cd997b541432d01AF011754b0e",
+        "name": "AppShare",
+        "symbol": "APPSHARE",
+        "decimals": 18
       }
     ]
   ],
