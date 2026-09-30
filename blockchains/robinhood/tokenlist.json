@@ -2829,6 +2829,12 @@
         "name": "Commander Vrax",
         "symbol": "VRAX",
         "decimals": 18
+      },
+      {
+        "address": "0x00A6075b0487877EB83687c90D7643c3524A8601",
+        "name": "Botbook",
+        "symbol": "BOTBOOK",
+        "decimals": 18
       }
     ]
   ],
