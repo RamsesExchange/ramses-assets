@@ -2823,6 +2823,12 @@
         "name": "Lighter",
         "symbol": "LIT",
         "decimals": 18
+      },
+      {
+        "address": "0x94641b97010608C3827fB058074889f19868FF33",
+        "name": "Commander Vrax",
+        "symbol": "VRAX",
+        "decimals": 18
       }
     ]
   ],
