@@ -2817,6 +2817,12 @@
         "name": "AppShare",
         "symbol": "APPSHARE",
         "decimals": 18
+      },
+      {
+        "address": "0xeeca2E7Dc194a320d349122d88259bB9595a4cB0",
+        "name": "Lighter",
+        "symbol": "LIT",
+        "decimals": 18
       }
     ]
   ],
