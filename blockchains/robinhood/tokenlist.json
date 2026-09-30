@@ -2835,6 +2835,12 @@
         "name": "Botbook",
         "symbol": "BOTBOOK",
         "decimals": 18
+      },
+      {
+        "address": "0x7f129314373451F54A9edbDA701d4475745F95D3",
+        "name": "VECTIS",
+        "symbol": "VECTIS",
+        "decimals": 18
       }
     ]
   ],
