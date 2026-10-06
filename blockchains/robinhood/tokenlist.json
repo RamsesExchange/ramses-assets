@@ -2841,6 +2841,12 @@
         "name": "VECTIS",
         "symbol": "VECTIS",
         "decimals": 18
+      },
+      {
+        "address": "0xDC1235e942A05c3b50a2879dF69a2865D86E1E18",
+        "name": "bored.place",
+        "symbol": "BORED",
+        "decimals": 18
       }
     ]
   ],
