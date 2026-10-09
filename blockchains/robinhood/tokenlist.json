@@ -2847,6 +2847,12 @@
         "name": "bored.place",
         "symbol": "BORED",
         "decimals": 18
+      },
+      {
+        "address": "0x0F7C21512D58dCdDF77b05Fe350d96FCCbd37F42",
+        "name": "perpz",
+        "symbol": "PERPZ",
+        "decimals": 18
       }
     ]
   ],
