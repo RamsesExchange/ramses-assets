@@ -2853,6 +2853,12 @@
         "name": "perpz",
         "symbol": "PERPZ",
         "decimals": 18
+      },
+      {
+        "address": "0xbd9Fceaf34CE6FCCf225cC17A17Bf868924b2480",
+        "name": "Mintfolio",
+        "symbol": "MINTFOLIO",
+        "decimals": 18
       }
     ]
   ],
