@@ -459,6 +459,12 @@
         "name": "TREAD",
         "symbol": "TREAD",
         "decimals": 18
+      },
+      {
+        "address": "0x9628BBa16DB41EA7fe1FD84f9CE53bC27c63f59b",
+        "name": "Derive",
+        "symbol": "DRV",
+        "decimals": 18
       }
     ]
   ],
