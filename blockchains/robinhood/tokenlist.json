@@ -2859,6 +2859,12 @@
         "name": "Mintfolio",
         "symbol": "MINTFOLIO",
         "decimals": 18
+      },
+      {
+        "address": "0xb8Fa8010833463Aac5595b55B9045479239EfF79",
+        "name": "what the hook?",
+        "symbol": "WTH",
+        "decimals": 18
       }
     ]
   ],
