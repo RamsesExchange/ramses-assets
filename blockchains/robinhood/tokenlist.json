@@ -2871,6 +2871,12 @@
         "name": "Giga Tenev",
         "symbol": "GIGATENEV",
         "decimals": 18
+      },
+      {
+        "address": "0x378A50eaC56f45Fb74e4cE7F1962dbCA33515c14",
+        "name": "Meridian Capital",
+        "symbol": "MCD",
+        "decimals": 18
       }
     ]
   ],
