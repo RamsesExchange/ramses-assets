@@ -2865,6 +2865,12 @@
         "name": "what the hook?",
         "symbol": "WTH",
         "decimals": 18
+      },
+      {
+        "address": "0xC9675fe679C7d4e1b94416F66D61c96127eb964a",
+        "name": "Giga Tenev",
+        "symbol": "GIGATENEV",
+        "decimals": 18
       }
     ]
   ],
