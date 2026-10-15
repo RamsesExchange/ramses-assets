@@ -2877,6 +2877,12 @@
         "name": "Meridian Capital",
         "symbol": "MCD",
         "decimals": 18
+      },
+      {
+        "address": "0x15f3385625D7e364C5a6216FBbceadf10fa90e7d",
+        "name": "Abyss",
+        "symbol": "ABYSS",
+        "decimals": 18
       }
     ]
   ],
