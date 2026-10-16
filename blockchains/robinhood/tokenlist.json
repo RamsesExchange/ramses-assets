@@ -2883,6 +2883,12 @@
         "name": "Abyss",
         "symbol": "ABYSS",
         "decimals": 18
+      },
+      {
+        "address": "0x01E6301bc1118be90Cc6Bc2d1B5C0c44Bb883111",
+        "name": "IGNITION",
+        "symbol": "IGNITION",
+        "decimals": 18
       }
     ]
   ],
