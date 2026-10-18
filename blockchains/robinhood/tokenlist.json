@@ -2889,6 +2889,12 @@
         "name": "IGNITION",
         "symbol": "IGNITION",
         "decimals": 18
+      },
+      {
+        "address": "0xeDBf91223639800BCd5756815CAf908Df3b890bE",
+        "name": "Priors Agents",
+        "symbol": "PRIORS",
+        "decimals": 18
       }
     ]
   ],
