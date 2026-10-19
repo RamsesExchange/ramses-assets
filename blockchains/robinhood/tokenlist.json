@@ -2901,6 +2901,12 @@
         "name": "Boomer",
         "symbol": "BOOMER",
         "decimals": 18
+      },
+      {
+        "address": "0xea0071a8778fA02C12378E88868255E0e0952Be6",
+        "name": "Farming Season",
+        "symbol": "SEASON",
+        "decimals": 18
       }
     ]
   ],
