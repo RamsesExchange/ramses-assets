@@ -2895,6 +2895,12 @@
         "name": "Priors Agents",
         "symbol": "PRIORS",
         "decimals": 18
+      },
+      {
+        "address": "0x127CDc74E44E3c60422b7E792eBE480c0f873ed5",
+        "name": "Boomer",
+        "symbol": "BOOMER",
+        "decimals": 18
       }
     ]
   ],
