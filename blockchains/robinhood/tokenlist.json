@@ -2907,6 +2907,12 @@
         "name": "Farming Season",
         "symbol": "SEASON",
         "decimals": 18
+      },
+      {
+        "address": "0x000050E18ffa3F8F7aD170Eb9CeF160eb3Ed1111",
+        "name": "Torch",
+        "symbol": "TORCH",
+        "decimals": 18
       }
     ]
   ],
