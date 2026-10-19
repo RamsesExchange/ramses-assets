@@ -2913,6 +2913,12 @@
         "name": "Torch",
         "symbol": "TORCH",
         "decimals": 18
+      },
+      {
+        "address": "0x72bE1277E198D0C476869253Cb4E62807e14533c",
+        "name": "Raeto",
+        "symbol": "RAETO",
+        "decimals": 18
       }
     ]
   ],
