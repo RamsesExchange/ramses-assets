@@ -2919,6 +2919,12 @@
         "name": "Raeto",
         "symbol": "RAETO",
         "decimals": 18
+      },
+      {
+        "address": "0xb63d07CEf74bE747231d601bb2FAa6B252c68106",
+        "name": "Fables",
+        "symbol": "FABLES",
+        "decimals": 18
       }
     ]
   ],
