@@ -465,6 +465,12 @@
         "name": "Derive",
         "symbol": "DRV",
         "decimals": 18
+      },
+      {
+        "address": "0x6b73113ac6d5455C17332098377a4B99AE553237",
+        "name": "Pear",
+        "symbol": "PEAR",
+        "decimals": 18
       }
     ]
   ],
