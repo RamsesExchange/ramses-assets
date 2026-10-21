@@ -2937,6 +2937,12 @@
         "name": "FANG",
         "symbol": "FANG",
         "decimals": 18
+      },
+      {
+        "address": "0x6376010d9D1F64de70D9e83c4093c8294515aC28",
+        "name": "GFANG",
+        "symbol": "GFANG",
+        "decimals": 18
       }
     ]
   ],
