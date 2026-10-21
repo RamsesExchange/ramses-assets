@@ -2931,6 +2931,12 @@
         "name": "Darkwoods",
         "symbol": "DARK",
         "decimals": 18
+      },
+      {
+        "address": "0x9E7739480b45602e1706cE7369e06698F20052e1",
+        "name": "FANG",
+        "symbol": "FANG",
+        "decimals": 18
       }
     ]
   ],
