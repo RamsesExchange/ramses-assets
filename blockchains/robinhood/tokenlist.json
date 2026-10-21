@@ -2925,6 +2925,12 @@
         "name": "Fables",
         "symbol": "FABLES",
         "decimals": 18
+      },
+      {
+        "address": "0xDc45b71d7203c2e8baafC43A19BcA0Eb993bB54E",
+        "name": "Darkwoods",
+        "symbol": "DARK",
+        "decimals": 18
       }
     ]
   ],
