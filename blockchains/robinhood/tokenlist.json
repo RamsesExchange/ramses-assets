@@ -2943,6 +2943,12 @@
         "name": "GFANG",
         "symbol": "GFANG",
         "decimals": 18
+      },
+      {
+        "address": "0x9e148C5716b5aAdCFD3B71cEAE9EE7a9e22C29E2",
+        "name": "Aero",
+        "symbol": "xAERO",
+        "decimals": 18
       }
     ]
   ],
