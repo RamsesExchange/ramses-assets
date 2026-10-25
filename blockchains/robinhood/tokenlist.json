@@ -2949,6 +2949,12 @@
         "name": "Aero",
         "symbol": "xAERO",
         "decimals": 18
+      },
+      {
+        "address": "0xbf6bD9aa3E6A5dDAc553527Dec7E671Ac0f41E18",
+        "name": "Not My Stock",
+        "symbol": "NMS",
+        "decimals": 18
       }
     ]
   ],
