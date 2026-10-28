@@ -2967,6 +2967,12 @@
         "name": "Fuck Pumpfun",
         "symbol": "FPUMP",
         "decimals": 18
+      },
+      {
+        "address": "0xd086f891229cD123aAdfCAe7C4b40150A80fd9D7",
+        "name": "Pizza",
+        "symbol": "PIZZA",
+        "decimals": 18
       }
     ]
   ],
