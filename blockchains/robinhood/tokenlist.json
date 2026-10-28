@@ -2955,6 +2955,12 @@
         "name": "Not My Stock",
         "symbol": "NMS",
         "decimals": 18
+      },
+      {
+        "address": "0xb7Ff57631B97000d950236ef63bD463da5bEBA7e",
+        "name": "Rebate",
+        "symbol": "REBATE",
+        "decimals": 18
       }
     ]
   ],
