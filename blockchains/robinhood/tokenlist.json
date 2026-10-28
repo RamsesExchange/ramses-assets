@@ -2961,6 +2961,12 @@
         "name": "Rebate",
         "symbol": "REBATE",
         "decimals": 18
+      },
+      {
+        "address": "0xD178A1E0b7Ab58a5F4801Ecea1e0fB35C9Ca685a",
+        "name": "Fuck Pumpfun",
+        "symbol": "FPUMP",
+        "decimals": 18
       }
     ]
   ],
