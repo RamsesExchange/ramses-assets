@@ -2973,6 +2973,12 @@
         "name": "Pizza",
         "symbol": "PIZZA",
         "decimals": 18
+      },
+      {
+        "address": "0x2fdaa4604F10F4AE7f66fa48A174bCd25b1ece20",
+        "name": "McDonald's \u2022 Robinhood Token",
+        "symbol": "MCD",
+        "decimals": 18
       }
     ]
   ],
