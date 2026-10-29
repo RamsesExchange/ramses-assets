@@ -3009,6 +3009,12 @@
         "name": "Uber \u2022 Robinhood Token",
         "symbol": "UBER",
         "decimals": 18
+      },
+      {
+        "address": "0x9BFF87700337babF5099e99F322F888DafB1d551",
+        "name": "Visa \u2022 Robinhood Token",
+        "symbol": "V",
+        "decimals": 18
       }
     ]
   ],
