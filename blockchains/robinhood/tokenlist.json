@@ -2997,6 +2997,12 @@
         "name": "JPMorgan Chase \u2022 Robinhood Token",
         "symbol": "JPM",
         "decimals": 18
+      },
+      {
+        "address": "0xa45aBDc77918F7B9199b022eEe400C0BC5712BD2",
+        "name": "PayPal \u2022 Robinhood Token",
+        "symbol": "PYPL",
+        "decimals": 18
       }
     ]
   ],
