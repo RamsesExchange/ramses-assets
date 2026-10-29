@@ -3015,6 +3015,12 @@
         "name": "Visa \u2022 Robinhood Token",
         "symbol": "V",
         "decimals": 18
+      },
+      {
+        "address": "0xE674C5c071821f48BB2d12CAdb83617Eff438f9e",
+        "name": "Zeta Global \u2022 Robinhood Token",
+        "symbol": "ZETA",
+        "decimals": 18
       }
     ]
   ],
