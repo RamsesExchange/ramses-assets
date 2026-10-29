@@ -3027,6 +3027,12 @@
         "name": "BitMine Immersion Technologies \u2022 Robinhood Token",
         "symbol": "BMNR",
         "decimals": 18
+      },
+      {
+        "address": "0xeA04f0eBB9b17b817f97694fAc5deaEb5722b495",
+        "name": "Wagie",
+        "symbol": "WAGIE",
+        "decimals": 18
       }
     ]
   ],
