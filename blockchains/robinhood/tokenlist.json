@@ -3021,6 +3021,12 @@
         "name": "Zeta Global \u2022 Robinhood Token",
         "symbol": "ZETA",
         "decimals": 18
+      },
+      {
+        "address": "0x9a7842EDed60b0FE1e03eEc342C82A397c821eD0",
+        "name": "BitMine Immersion Technologies \u2022 Robinhood Token",
+        "symbol": "BMNR",
+        "decimals": 18
       }
     ]
   ],
