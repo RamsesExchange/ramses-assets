@@ -3003,6 +3003,12 @@
         "name": "PayPal \u2022 Robinhood Token",
         "symbol": "PYPL",
         "decimals": 18
+      },
+      {
+        "address": "0xbd335Aa5A1693F0121A5c0Ef18A080E9958DA78b",
+        "name": "Uber \u2022 Robinhood Token",
+        "symbol": "UBER",
+        "decimals": 18
       }
     ]
   ],
