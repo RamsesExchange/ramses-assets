@@ -2979,6 +2979,12 @@
         "name": "McDonald's \u2022 Robinhood Token",
         "symbol": "MCD",
         "decimals": 18
+      },
+      {
+        "address": "0x501B1B3B79750313AD2C4CcCD08586c4C17d7283",
+        "name": "Disney \u2022 Robinhood Token",
+        "symbol": "DIS",
+        "decimals": 18
       }
     ]
   ],
