@@ -2985,6 +2985,12 @@
         "name": "Disney \u2022 Robinhood Token",
         "symbol": "DIS",
         "decimals": 18
+      },
+      {
+        "address": "0xBDFa7A06458Aa26b8E736E0fC87aD37C3BB8Ac2e",
+        "name": "VanEck Gold Miners ETF \u2022 Robinhood Token",
+        "symbol": "GDX",
+        "decimals": 18
       }
     ]
   ],
