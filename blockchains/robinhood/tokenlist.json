@@ -2991,6 +2991,12 @@
         "name": "VanEck Gold Miners ETF \u2022 Robinhood Token",
         "symbol": "GDX",
         "decimals": 18
+      },
+      {
+        "address": "0x07c44dA0848960bFf894F17584dB8B2F60B2409E",
+        "name": "JPMorgan Chase \u2022 Robinhood Token",
+        "symbol": "JPM",
+        "decimals": 18
       }
     ]
   ],
