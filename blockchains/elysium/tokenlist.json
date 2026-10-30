@@ -1,0 +1,33 @@
+{
+  "name": "Ramses: Elysium Token List",
+  "logoURI": "",
+  "timestamp": "2026-10-29T00:00:00.000000",
+  "tokens": [
+    [
+      {
+        "name": "USDC",
+        "address": "0xb47c4C8F73F009CC0C0d3f92B388d13E293F0B65",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "name": "Kinetiq Governance Token",
+        "address": "0xe45a355d9e9cAd2aD85F2d03E3eE3102A036acF0",
+        "symbol": "KNTQ",
+        "decimals": 18
+      },
+      {
+        "name": "WHYPE",
+        "address": "0xbA876237B0F021A6c6D852d6c26E107997cC5E81",
+        "symbol": "WHYPE",
+        "decimals": 18
+      }
+
+    ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
