@@ -3033,6 +3033,12 @@
         "name": "Wagie",
         "symbol": "WAGIE",
         "decimals": 18
+      },
+      {
+        "address": "0xDc605041F02e41CbD8FDC347023e93C4c3fA243C",
+        "name": "Ballast",
+        "symbol": "BALLAST",
+        "decimals": 18
       }
     ]
   ],
