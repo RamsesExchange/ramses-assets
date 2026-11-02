@@ -3039,6 +3039,12 @@
         "name": "Ballast",
         "symbol": "BALLAST",
         "decimals": 18
+      },
+      {
+        "address": "0xe4119a9bfcc86915368502B598BBEd4745f7051d",
+        "name": "Wofl",
+        "symbol": "WOFL",
+        "decimals": 18
       }
     ]
   ],
