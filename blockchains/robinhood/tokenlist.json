@@ -3045,6 +3045,12 @@
         "name": "Wofl",
         "symbol": "WOFL",
         "decimals": 18
+      },
+      {
+        "address": "0x6572EADe9Fb17F4027baF92FEAC222B9AA746bd0",
+        "name": "Grey Goo",
+        "symbol": "GOO",
+        "decimals": 18
       }
     ]
   ],
