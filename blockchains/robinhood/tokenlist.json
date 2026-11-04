@@ -3051,6 +3051,12 @@
         "name": "ZKBLAST",
         "symbol": "ZKBLAST",
         "decimals": 18
+      },
+      {
+        "address": "0x63b5C2B1eB93Ad62EA06560370f4f317eE1b97D3",
+        "name": "Lemniscate",
+        "symbol": "LMNI",
+        "decimals": 18
       }
     ]
   ],
