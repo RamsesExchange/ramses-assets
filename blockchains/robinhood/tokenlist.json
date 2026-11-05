@@ -3057,6 +3057,12 @@
         "name": "Lemniscate",
         "symbol": "LMNI",
         "decimals": 18
+      },
+      {
+        "address": "0x6511c233790Ec10f7d673c64DC82C3F941D57828",
+        "name": "Oak",
+        "symbol": "OAK",
+        "decimals": 18
       }
     ]
   ],
