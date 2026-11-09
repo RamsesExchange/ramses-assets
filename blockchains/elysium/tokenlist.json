@@ -111,6 +111,12 @@
         "name": "Wrapped NVIDIA xStock",
         "symbol": "wNVDAx",
         "decimals": 18
+      },
+      {
+        "address": "0x62D5D39E2b3A2a45E743698C9995B0e48676DAb8",
+        "name": "HyperEdge",
+        "symbol": "HyperEdge",
+        "decimals": 18
       }
     ]
   ],
