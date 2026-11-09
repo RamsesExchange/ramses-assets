@@ -99,6 +99,12 @@
         "name": "Aether",
         "symbol": "AETHER",
         "decimals": 18
+      },
+      {
+        "address": "0x32Df8b4d9EA1b76821570061cAc68aD7b14F545f",
+        "name": "Shoku Mode",
+        "symbol": "SHOKU",
+        "decimals": 18
       }
     ]
   ],
