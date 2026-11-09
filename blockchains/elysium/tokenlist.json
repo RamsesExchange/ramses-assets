@@ -123,6 +123,12 @@
         "name": "Boxa",
         "symbol": "BOXA",
         "decimals": 18
+      },
+      {
+        "address": "0xf3aa02bb4299ec5092c059Bf8BaEd5942B4a09ED",
+        "name": "Tesera Lab",
+        "symbol": "Tesera",
+        "decimals": 18
       }
     ]
   ],
