@@ -3063,6 +3063,12 @@
         "name": "Oak",
         "symbol": "OAK",
         "decimals": 18
+      },
+      {
+        "address": "0xa2753fD0Bc86b8cEB55FfD2698679C7f214785F1",
+        "name": "Letronna",
+        "symbol": "LETRO",
+        "decimals": 18
       }
     ]
   ],
