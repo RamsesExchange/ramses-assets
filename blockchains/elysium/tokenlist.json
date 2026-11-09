@@ -117,6 +117,12 @@
         "name": "Blob",
         "symbol": "BLOB",
         "decimals": 18
+      },
+      {
+        "address": "0xa3C1d6a8648dF3978A38ce1478fbC284c75D95D7",
+        "name": "Boxa",
+        "symbol": "BOXA",
+        "decimals": 18
       }
     ]
   ],
