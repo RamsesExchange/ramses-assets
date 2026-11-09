@@ -117,6 +117,12 @@
         "name": "HyperEdge",
         "symbol": "HyperEdge",
         "decimals": 18
+      },
+      {
+        "address": "0x69E58778c986a036cdF7EE93A18e173BFd47B10B",
+        "name": "Blob",
+        "symbol": "BLOB",
+        "decimals": 18
       }
     ]
   ],
