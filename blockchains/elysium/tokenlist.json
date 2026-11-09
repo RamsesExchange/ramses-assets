@@ -1,7 +1,7 @@
 {
   "name": "Ramses: Elysium Token List",
   "logoURI": "",
-  "timestamp": "2026-11-09T03:02:52.753Z",
+  "timestamp": "2026-11-09T04:44:05.625Z",
   "tokens": [
     [
       {
@@ -63,13 +63,43 @@
         "address": "0xC8567e00872fB9fE8fAA5749556A19fC91a479DD",
         "symbol": "KMEOW",
         "decimals": 18
+      },
+      {
+        "name": "eaccat",
+        "address": "0x32193Afd14c53f12c45A4c04ECA9F7Ba98e3ec71",
+        "symbol": "EACCAT",
+        "decimals": 18
+      },
+      {
+        "name": "USD₮0",
+        "address": "0x3BdE42a1dA8F1D95564f2c4a51a0cF73a725674C",
+        "symbol": "USD₮0",
+        "decimals": 6
+      },
+      {
+        "name": "Agora",
+        "address": "0x5e5Df82d563FCF36b6f853c4D09f89e2d18825B4",
+        "symbol": "AGORA",
+        "decimals": 18
+      },
+      {
+        "name": "Ascend Accelerationism",
+        "address": "0xAACC5bc6EA24CB753E5C2D48C88f7e361a50AACC",
+        "symbol": "A/ACC",
+        "decimals": 18
+      },
+      {
+        "name": "voidcash",
+        "address": "0xD31B21Cb80E431AC996269deC31A40fCf048B77f",
+        "symbol": "VOID",
+        "decimals": 18
       }
 
     ]
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
