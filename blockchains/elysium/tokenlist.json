@@ -105,6 +105,12 @@
         "name": "Shoku Mode",
         "symbol": "SHOKU",
         "decimals": 18
+      },
+      {
+        "address": "0x11265018bF2d5a99fb71EFaE73aD670203C1dF44",
+        "name": "Wrapped NVIDIA xStock",
+        "symbol": "wNVDAx",
+        "decimals": 18
       }
     ]
   ],
