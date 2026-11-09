@@ -1,7 +1,7 @@
 {
   "name": "Ramses: Elysium Token List",
   "logoURI": "",
-  "timestamp": "2026-10-29T00:00:00.000000",
+  "timestamp": "2026-11-09T03:02:52.753Z",
   "tokens": [
     [
       {
@@ -21,13 +21,55 @@
         "address": "0xbA876237B0F021A6c6D852d6c26E107997cC5E81",
         "symbol": "WHYPE",
         "decimals": 18
+      },
+      {
+        "name": "Volta",
+        "address": "0x0f79931689Af199e7CF868ed1107bBA2C83c68f7",
+        "symbol": "VOLTA",
+        "decimals": 18
+      },
+      {
+        "name": "Ramses",
+        "address": "0x2ea9E66Adb86b0Ed71f79ab2e81a31147eDc3215",
+        "symbol": "RAM",
+        "decimals": 18
+      },
+      {
+        "name": "Bozo",
+        "address": "0x61e6c090Fb341b5Cd41a17BB0F895f0f9E3a756b",
+        "symbol": "BOZO",
+        "decimals": 18
+      },
+      {
+        "name": "e/acc",
+        "address": "0x8df4f39d592de2aAee15838B265C2392d19A4128",
+        "symbol": "e/acc",
+        "decimals": 18
+      },
+      {
+        "name": "Blob",
+        "address": "0x9a9815Af521149E8D982791703A31bca2F95f534",
+        "symbol": "BLOB",
+        "decimals": 18
+      },
+      {
+        "name": "Kinetiq Inu",
+        "address": "0xB3BA861B95fca1ba669CCbdb0b860e7b9148b326",
+        "symbol": "KI",
+        "decimals": 18
+      },
+      {
+        "name": "KMEOW",
+        "address": "0xC8567e00872fB9fE8fAA5749556A19fC91a479DD",
+        "symbol": "KMEOW",
+        "decimals": 18
       }
 
     ]
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
