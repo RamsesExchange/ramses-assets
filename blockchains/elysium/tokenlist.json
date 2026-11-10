@@ -135,6 +135,12 @@
         "name": "Montra",
         "symbol": "MONTRA",
         "decimals": 18
+      },
+      {
+        "address": "0x46b131573Ca7c2674b652BbeB7FC16D530396aEC",
+        "name": "Purr",
+        "symbol": "PURR",
+        "decimals": 18
       }
     ]
   ],
