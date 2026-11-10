@@ -159,6 +159,12 @@
         "name": "ETHEL",
         "symbol": "ETHEL",
         "decimals": 18
+      },
+      {
+        "address": "0x236FeEcD909FF562E775318c77781f4946c33b3b",
+        "name": "TESTICLES",
+        "symbol": "TESTICLES",
+        "decimals": 18
       }
     ]
   ],
