@@ -153,6 +153,12 @@
         "name": "Uniseum",
         "symbol": "UNISEUM",
         "decimals": 18
+      },
+      {
+        "address": "0x866be81dC10971983737c6DEeA0C6d4294AE1CA6",
+        "name": "ETHEL",
+        "symbol": "ETHEL",
+        "decimals": 18
       }
     ]
   ],
