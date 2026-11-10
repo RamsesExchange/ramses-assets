@@ -165,6 +165,12 @@
         "name": "TESTICLES",
         "symbol": "TESTICLES",
         "decimals": 18
+      },
+      {
+        "address": "0xF0394d1E25BE152C9746791f5DA3B287743f0E52",
+        "name": "Pocket Perps",
+        "symbol": "POCKET",
+        "decimals": 18
       }
     ]
   ],
