@@ -129,6 +129,12 @@
         "name": "Tesera Lab",
         "symbol": "Tesera",
         "decimals": 18
+      },
+      {
+        "address": "0x063F7Cc5339f92a5FD7BaF3D22233044FdA1F327",
+        "name": "Montra",
+        "symbol": "MONTRA",
+        "decimals": 18
       }
     ]
   ],
