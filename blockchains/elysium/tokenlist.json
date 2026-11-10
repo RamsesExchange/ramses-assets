@@ -147,6 +147,12 @@
         "name": "Unit Ethereum",
         "symbol": "UETH",
         "decimals": 18
+      },
+      {
+        "address": "0x5DE7c0eD87973E8254F58176a449356350302033",
+        "name": "Uniseum",
+        "symbol": "UNISEUM",
+        "decimals": 18
       }
     ]
   ],
