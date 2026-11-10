@@ -141,6 +141,12 @@
         "name": "Purr",
         "symbol": "PURR",
         "decimals": 18
+      },
+      {
+        "address": "0x7A66A75fe41Bc26867C17fe1bc7D1C076EBd4eCd",
+        "name": "Unit Ethereum",
+        "symbol": "UETH",
+        "decimals": 18
       }
     ]
   ],
