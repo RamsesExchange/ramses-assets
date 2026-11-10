@@ -171,6 +171,12 @@
         "name": "Pocket Perps",
         "symbol": "POCKET",
         "decimals": 18
+      },
+      {
+        "address": "0xB34F088c78f426Fc1B3CAB280d02108187F96315",
+        "name": "NEWCOIN",
+        "symbol": "NEWCOIN",
+        "decimals": 18
       }
     ]
   ],
