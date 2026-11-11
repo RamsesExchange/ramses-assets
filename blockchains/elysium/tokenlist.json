@@ -177,6 +177,12 @@
         "name": "NEWCOIN",
         "symbol": "NEWCOIN",
         "decimals": 18
+      },
+      {
+        "address": "0x01dc0E69f838c20EfF2D98A36bE4D443Db578ddC",
+        "name": "e/acc",
+        "symbol": "e/acc",
+        "decimals": 18
       }
     ]
   ],
