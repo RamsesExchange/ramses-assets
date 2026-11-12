@@ -189,6 +189,12 @@
         "name": "Wrapped SP500 xStock",
         "symbol": "wSPYx",
         "decimals": 18
+      },
+      {
+        "address": "0xC585aCCa50B29DB0AfF2Fa12090078173Aa3cCCc",
+        "name": "DEATHBOX",
+        "symbol": "DEATH",
+        "decimals": 18
       }
     ]
   ],
