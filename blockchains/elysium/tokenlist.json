@@ -177,6 +177,12 @@
         "name": "NEWCOIN",
         "symbol": "NEWCOIN",
         "decimals": 18
+      },
+      {
+        "address": "0x248888D396A546A69A188f3Deb476964e581E9d0",
+        "name": "Kinetiq Staked HYPE",
+        "symbol": "kHYPE",
+        "decimals": 18
       }
     ]
   ],
