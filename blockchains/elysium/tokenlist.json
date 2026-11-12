@@ -183,6 +183,12 @@
         "name": "Kinetiq Staked HYPE",
         "symbol": "kHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x437c847644ff22Cbcf0eA56896aA25504Aad93b4",
+        "name": "Wrapped SP500 xStock",
+        "symbol": "wSPYx",
+        "decimals": 18
       }
     ]
   ],
