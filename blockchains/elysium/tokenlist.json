@@ -195,6 +195,12 @@
         "name": "DEATHBOX",
         "symbol": "DEATH",
         "decimals": 18
+      },
+      {
+        "address": "0xe107e5D99910F544f88ef961E3cA6d88F06f29DD",
+        "name": "Eloscape",
+        "symbol": "ELO",
+        "decimals": 18
       }
     ]
   ],
