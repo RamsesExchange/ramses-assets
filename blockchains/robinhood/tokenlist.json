@@ -3069,6 +3069,12 @@
         "name": "Letronna",
         "symbol": "LETRO",
         "decimals": 18
+      },
+      {
+        "address": "0x000DE658153f47f23e92973C8EB1e89762703676",
+        "name": "FOBO",
+        "symbol": "FOBO",
+        "decimals": 18
       }
     ]
   ],
