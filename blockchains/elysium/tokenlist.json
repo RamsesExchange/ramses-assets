@@ -201,6 +201,12 @@
         "name": "Eloscape",
         "symbol": "ELO",
         "decimals": 18
+      },
+      {
+        "address": "0x9039Ebd84eE2a0e198EB265E692390762995872C",
+        "name": "Wrapped Nasdaq xStock",
+        "symbol": "wQQQx",
+        "decimals": 18
       }
     ]
   ],
