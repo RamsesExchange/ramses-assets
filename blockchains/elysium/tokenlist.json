@@ -207,6 +207,12 @@
         "name": "Wrapped Nasdaq xStock",
         "symbol": "wQQQx",
         "decimals": 18
+      },
+      {
+        "address": "0x74F811F35134D73221E5491135E4C8f963316953",
+        "name": "Agorian",
+        "symbol": "AGI",
+        "decimals": 18
       }
     ]
   ],
