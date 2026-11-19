@@ -3075,6 +3075,12 @@
         "name": "FOBO",
         "symbol": "FOBO",
         "decimals": 18
+      },
+      {
+        "address": "0xbbB6c29bCc3a1028A2B54310DF73F4F7A3bcB373",
+        "name": "Anthropic, PBC Class A Common Stock \u2022 Robinhood Token",
+        "symbol": "ANT",
+        "decimals": 18
       }
     ]
   ],
