@@ -213,6 +213,12 @@
         "name": "Agorian",
         "symbol": "AGI",
         "decimals": 18
+      },
+      {
+        "address": "0xd12609Ddb1CD18280C7C14fB2CB5091CFEa37f2D",
+        "name": "LiquidV",
+        "symbol": "LiquidV",
+        "decimals": 18
       }
     ]
   ],
