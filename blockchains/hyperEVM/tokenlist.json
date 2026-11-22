@@ -471,6 +471,12 @@
         "name": "Pear",
         "symbol": "PEAR",
         "decimals": 18
+      },
+      {
+        "address": "0xb9cd945141F7D99Fd562a6222AcCDe5043350AD4",
+        "name": "PaperStrategy",
+        "symbol": "PSTR",
+        "decimals": 18
       }
     ]
   ],
