@@ -3081,6 +3081,12 @@
         "name": "Anthropic, PBC Class A Common Stock \u2022 Robinhood Token",
         "symbol": "ANT",
         "decimals": 18
+      },
+      {
+        "address": "0x80E10255A83B257F5A8674D363F547842aa53b8e",
+        "name": "T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Technology ETF \u2022 Robinhood Token",
+        "symbol": "TTEQ",
+        "decimals": 18
       }
     ]
   ],
