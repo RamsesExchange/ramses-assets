@@ -219,6 +219,12 @@
         "name": "LiquidV",
         "symbol": "LiquidV",
         "decimals": 18
+      },
+      {
+        "address": "0x49A591bEb2a77ddcF41758F4E99126bc0510EA40",
+        "name": "Sunfall.world",
+        "symbol": "SUNFALL",
+        "decimals": 18
       }
     ]
   ],
