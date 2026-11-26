@@ -47,12 +47,6 @@
         "decimals": 18
       },
       {
-        "name": "Blob",
-        "address": "0x9a9815Af521149E8D982791703A31bca2F95f534",
-        "symbol": "BLOB",
-        "decimals": 18
-      },
-      {
         "name": "Kinetiq Inu",
         "address": "0xB3BA861B95fca1ba669CCbdb0b860e7b9148b326",
         "symbol": "KI",
