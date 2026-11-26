@@ -237,6 +237,12 @@
         "name": "Leash",
         "symbol": "LEASH",
         "decimals": 18
+      },
+      {
+        "address": "0xC6673922B09570711675873F9dbd3B389117163b",
+        "name": "Jellysium",
+        "symbol": "JELLY",
+        "decimals": 18
       }
     ]
   ],
