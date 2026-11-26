@@ -243,6 +243,12 @@
         "name": "Jellysium",
         "symbol": "JELLY",
         "decimals": 18
+      },
+      {
+        "address": "0x547A2a9C5AF6E4372EAD794e80EaF3F42dbBaaaC",
+        "name": "Blob",
+        "symbol": "BLOB",
+        "decimals": 18
       }
     ]
   ],
