@@ -225,6 +225,12 @@
         "name": "Sunfall.world",
         "symbol": "SUNFALL",
         "decimals": 18
+      },
+      {
+        "address": "0x7f4f3b9770648262fe5133B9CB8A2155173be0d4",
+        "name": "Evermor",
+        "symbol": "EVERMOR",
+        "decimals": 18
       }
     ]
   ],
