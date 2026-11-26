@@ -231,6 +231,12 @@
         "name": "Evermor",
         "symbol": "EVERMOR",
         "decimals": 18
+      },
+      {
+        "address": "0x0d442948A8748F0296aF853c85EC054D875c010f",
+        "name": "Leash",
+        "symbol": "LEASH",
+        "decimals": 18
       }
     ]
   ],
