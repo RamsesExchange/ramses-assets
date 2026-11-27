@@ -273,6 +273,12 @@
         "name": "Moira",
         "symbol": "MOIRA",
         "decimals": 18
+      },
+      {
+        "address": "0x006A79F0e9AEaCA0f293A5c4a582716Cb28AB9b2",
+        "name": "Housecoin",
+        "symbol": "HOUSE",
+        "decimals": 18
       }
     ]
   ],
