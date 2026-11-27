@@ -261,6 +261,12 @@
         "name": "Quotient",
         "symbol": "QUOTIENT",
         "decimals": 18
+      },
+      {
+        "address": "0x1108866Da1515A25027dD873Cd6F9260e7D41A59",
+        "name": "Elypact",
+        "symbol": "ELYPACT",
+        "decimals": 18
       }
     ]
   ],
