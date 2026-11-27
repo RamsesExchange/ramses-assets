@@ -267,6 +267,12 @@
         "name": "Elypact",
         "symbol": "ELYPACT",
         "decimals": 18
+      },
+      {
+        "address": "0xe4F6e717Be305dEaA8C6DBcAB9721c1298c862C9",
+        "name": "Moira",
+        "symbol": "MOIRA",
+        "decimals": 18
       }
     ]
   ],
