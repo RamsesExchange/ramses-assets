@@ -249,6 +249,12 @@
         "name": "KORILA",
         "symbol": "KORILA",
         "decimals": 18
+      },
+      {
+        "address": "0xe2B8bCB648a842127eFE2a5A773b2628c11f0A2B",
+        "name": "Tokos Rates",
+        "symbol": "TOKOS",
+        "decimals": 18
       }
     ]
   ],
