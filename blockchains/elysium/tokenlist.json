@@ -255,6 +255,12 @@
         "name": "Tokos Rates",
         "symbol": "TOKOS",
         "decimals": 18
+      },
+      {
+        "address": "0xF160F0966B88D562027d44dEFD2E8dcaC3C67705",
+        "name": "Quotient",
+        "symbol": "QUOTIENT",
+        "decimals": 18
       }
     ]
   ],
