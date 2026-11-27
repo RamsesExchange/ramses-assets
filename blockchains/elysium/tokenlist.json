@@ -243,6 +243,12 @@
         "name": "Blob",
         "symbol": "BLOB",
         "decimals": 18
+      },
+      {
+        "address": "0x7e7384E8c7E622e0BBF5813c399fFA4AdB22DC44",
+        "name": "KORILA",
+        "symbol": "KORILA",
+        "decimals": 18
       }
     ]
   ],
