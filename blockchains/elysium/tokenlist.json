@@ -315,6 +315,12 @@
         "name": "Pyxion",
         "symbol": "PYX",
         "decimals": 18
+      },
+      {
+        "address": "0x66f46517D0C2CFa489bcBf776D127D59c79fA499",
+        "name": "Quoted",
+        "symbol": "QUOTED",
+        "decimals": 18
       }
     ]
   ],
