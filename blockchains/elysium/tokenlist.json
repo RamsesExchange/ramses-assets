@@ -297,6 +297,12 @@
         "name": "Montra Index",
         "symbol": "M10",
         "decimals": 18
+      },
+      {
+        "address": "0xeC60E2EB9c8f2dDDabD55B9799e691bEeA6DA768",
+        "name": "BUTTERFLY",
+        "symbol": "BTRFLY",
+        "decimals": 18
       }
     ]
   ],
