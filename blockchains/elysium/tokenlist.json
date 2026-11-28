@@ -285,6 +285,12 @@
         "name": "Yutori",
         "symbol": "YTR",
         "decimals": 18
+      },
+      {
+        "address": "0xd662D66eC991A3eae4EcBdA34327264c53d4cF38",
+        "name": "CHAMELEON",
+        "symbol": "CHAMELEON",
+        "decimals": 18
       }
     ]
   ],
