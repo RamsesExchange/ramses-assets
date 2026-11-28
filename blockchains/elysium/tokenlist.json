@@ -303,6 +303,12 @@
         "name": "BUTTERFLY",
         "symbol": "BTRFLY",
         "decimals": 18
+      },
+      {
+        "address": "0x643Ab13EC0A561c2042FAf198817420a43D2E0Fb",
+        "name": "Finding Niggo in the vast hyperliquid ocean",
+        "symbol": "NIGGO",
+        "decimals": 18
       }
     ]
   ],
