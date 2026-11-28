@@ -309,6 +309,12 @@
         "name": "Finding Niggo in the vast hyperliquid ocean",
         "symbol": "NIGGO",
         "decimals": 18
+      },
+      {
+        "address": "0x4b7e1D2cb5DeDbB2a832A452E66Cb33AC62dE980",
+        "name": "Pyxion",
+        "symbol": "PYX",
+        "decimals": 18
       }
     ]
   ],
