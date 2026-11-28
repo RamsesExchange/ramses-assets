@@ -291,6 +291,12 @@
         "name": "CHAMELEON",
         "symbol": "CHAMELEON",
         "decimals": 18
+      },
+      {
+        "address": "0xB97b1A77C2039Addc78b594300C4f69EBBCbA3e2",
+        "name": "Montra Index",
+        "symbol": "M10",
+        "decimals": 18
       }
     ]
   ],
