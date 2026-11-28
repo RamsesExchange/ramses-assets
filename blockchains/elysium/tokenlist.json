@@ -321,6 +321,12 @@
         "name": "Quoted",
         "symbol": "QUOTED",
         "decimals": 18
+      },
+      {
+        "address": "0xE9C952CD198Ff412113a465D34Ff2C233F6F4ca1",
+        "name": "Numpay",
+        "symbol": "NUM",
+        "decimals": 18
       }
     ]
   ],
